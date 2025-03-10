@@ -12,9 +12,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 7laWkT6uyoMDUXBqhcAN4V,"Ngày Chưa Giông Bão (Theme Song From ""Người Bất Tử"")",Bùi Lan Hương,Yin Yang Media,2018-10-18,158,13,117,625,11,3720760877
 2IRZnDFmlqMuOrYOLnZZyc,Going Bad (feat. Drake),"Meek Mill, Drake",MMG/Atlantic,2018-12-14,158,85,172,47,12,3720760877
 0GU5GuJQQEnnREO2FxnVPT,DALLA DALLA,ITZY,Republic Records - ITZY,2019-02-22,158,11,-1,226,13,3720760877
-1MiJk3dXC5jzhvLFP0dUM7,Thức Giấc,Da LAB,Yin Yang Media,2021-07-09,142,1,131,1298,14,3476727992
-5PjdY0CKGZdEuoNab3yDmX,STAY (with Justin Bieber),"The Kid LAROI, Justin Bieber",Columbia,2021-07-23,142,1,104,542,15,3476727992
-567e29TDzLwZwfDuEpGTwo,STAY (with Justin Bieber),"The Kid LAROI, Justin Bieber",Columbia,2021-07-27,142,1,195,744,16,3476727992
+567e29TDzLwZwfDuEpGTwo,STAY (with Justin Bieber),"The Kid LAROI, Justin Bieber",Columbia,2021-07-27,142,1,195,744,14,3476727992
+1MiJk3dXC5jzhvLFP0dUM7,Thức Giấc,Da LAB,Yin Yang Media,2021-07-09,142,1,131,1298,15,3476727992
+5PjdY0CKGZdEuoNab3yDmX,STAY (with Justin Bieber),"The Kid LAROI, Justin Bieber",Columbia,2021-07-23,142,1,104,542,16,3476727992
 6uHoPVdPEqXlH1Kd3KqTIJ,I'M OK,iKON,YG Entertainment,2017-06-23,204,44,147,9,17,3338856236
 2yoQ8FCHSuduzMtreflB71,Say You Do - 2nd Single 2015,Tiên Tiên,TienTienMusic,2017-03-03,263,32,32,2,18,3312142392
 02MWAaffLxlfxAUY7c5dvx,Heat Waves,Glass Animals,Polydor Records,2020-08-06,239,21,170,408,19,3301944296
@@ -56,8 +56,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0jY5Kr6b9KCefb9mPruLU0,Loving You Sunny,"Kimmese, Đen",12 trái lê,2013-08-30,270,94,194,142,55,2639131007
 5SxkdsY1ufZzoq9iXceLw9,no tears left to cry,Ariana Grande,Republic Records,2013-01-01,247,1,89,103,56,2625449419
 79dGPzulHMR0W8w1b8CgO8,Twin Peaks Theme,Henrik Janson,Henrik Janson,2012-01-01,253,135,-1,1,57,2479205767
-44ONERBHALxftQNWq6dmyd,Side To Side,"Ariana Grande, Nicki Minaj",Universal Records,2019-02-08,179,182,-1,4,58,2476251414
-0pqnGHJpmpxLKifKRmU6WP,Believer,Imagine Dragons,Kid Ina Korner / Interscope,2019-01-18,179,60,195,540,59,2476251414
+0pqnGHJpmpxLKifKRmU6WP,Believer,Imagine Dragons,Kid Ina Korner / Interscope,2019-01-18,179,60,195,540,58,2476251414
+44ONERBHALxftQNWq6dmyd,Side To Side,"Ariana Grande, Nicki Minaj",Universal Records,2019-02-08,179,182,-1,4,59,2476251414
 4DHcnVTT87F0zZhRPYmZ3B,Flowers,Miley Cyrus,Columbia,2023-03-10,201,4,-1,122,60,2443885636
 0yLdNVWF3Srea0uzk55zFn,Flowers,Miley Cyrus,Columbia,2023-01-13,200,4,20,48,61,2443885636
 4edS9dC0JPBlSS4p4gMOT0,This Feeling,"The Chainsmokers, Kelsea Ballerini",Disruptor Records/Columbia,2017-04-20,188,12,60,56,62,2418734238
@@ -67,8 +67,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 4WzhjxvLP95y7AMDy0Atwb,Out Of Love,Alessia Cara,Def Jam Recordings,2016-08-05,206,132,173,19,66,2413997331
 7Fg342AJtNsIDdwCfX0paC,Let Me,ZAYN,RCA Records Label,2018-04-06,215,2,91,51,67,2391561916
 1Qrg8KqiBpW07V7PNxwwwL,Kill Bill,SZA,Top Dawg Entertainment/RCA Records,2022-12-08,154,5,189,671,68,2388030795
-3cbLHmmEPvTgHKvl53WYiy,ON,BTS,BIGHIT MUSIC,2021-05-14,178,1,20,435,69,2369042221
-3BZEcbdtXQSo7OrvKRJ6mb,MONTERO (Call Me By Your Name),Lil Nas X,Columbia,2021-05-21,178,60,61,5,70,2369042221
+3BZEcbdtXQSo7OrvKRJ6mb,MONTERO (Call Me By Your Name),Lil Nas X,Columbia,2021-05-21,178,60,61,5,69,2369042221
+3cbLHmmEPvTgHKvl53WYiy,ON,BTS,BIGHIT MUSIC,2021-05-14,178,1,20,435,70,2369042221
 4gJAWJnE5cvAAWyTMTxgdY,You Are The Reason - Duet Version,"Calum Scott, Leona Lewis",Capitol Records,2015-11-13,201,126,-1,15,71,2349291763
 3DPkMPJ1rUrMgXGUwtpMuV,Vũ Điệu Cồng Chiêng,Tóc Tiên,Tóc Tiên,2018-03-16,167,81,125,11,72,2346986265
 2LEDtBvipXO7mxlNqJJPkm,Con Đường Mưa,Cao Thái Sơn,Cao Thái Sơn,2018-03-02,167,114,-1,13,73,2346986265
@@ -80,8 +80,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 7rglLriMNBPAyuJOMGwi39,Cold Heart - PNAU Remix,"Elton John, Dua Lipa, PNAU",EMI,2021-10-22,203,96,170,182,79,2294918031
 6zSpb8dQRaw0M1dK8PBwQz,Cold Heart - PNAU Remix,"Elton John, Dua Lipa, PNAU",EMI,2021-08-13,203,193,199,4,80,2294918031
 70cMlm2Ib00pnJHtjMem9b,Những Con Đường Song Song,Chillies,WM Vietnam,2020-03-20,216,139,169,19,81,2273914270
-5Hba2FufYnxr2mGjeyFv72,Biết Khi Nào Gặp Lại,Mỹ Tâm,MT Entertainment,2017-06-02,209,11,184,354,82,2266005348
-5roIqBOfs7unk4KsPEEbar,Fall In Love,Hoàng Thùy Linh,POPS WORLDWIDE,2015-01-01,209,61,-1,8,83,2266005348
+5roIqBOfs7unk4KsPEEbar,Fall In Love,Hoàng Thùy Linh,POPS WORLDWIDE,2015-01-01,209,61,-1,8,82,2266005348
+5Hba2FufYnxr2mGjeyFv72,Biết Khi Nào Gặp Lại,Mỹ Tâm,MT Entertainment,2017-06-02,209,11,184,354,83,2266005348
 32DGGj6KlNuBr6WaqRxpxi,How Long,Charlie Puth,Artist Partner,2017-11-03,201,35,60,49,84,2256141597
 3kcad6l0zJdzGZEvxXzNKP,Hay Yeu Nhau Di,Thiên Phượng,Lang Van,2014-05-26,173,156,-1,1,85,2248040405
 4oqm7XzkfEJI7vlhaBE7UK,Lạc Giữa Nhân Gian,Ngô Kiến Huy,Viettel,2014-01-01,173,98,-1,8,86,2246738587
@@ -108,8 +108,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3ksHvU75aLBENx2ZmO49Jx,Anh Thanh Niên,HuyR,Yin Yang Media,2019-12-06,197,51,186,99,107,2113058118
 083Qf6hn6sFL6xiOHlZUyn,I'll Be There,Jess Glynne,Atlantic Records UK,2014-01-01,239,107,-1,1,108,2113047007
 0uv4HphFFoEn1LVZQ806Fy,Anh Đã Quen Với Cô Đơn,SOOBIN,Mix166,2014-01-01,239,81,81,2,109,2113047007
-6osYEcGOlS3jEedcW96GlM,Gucci in Town,Vũ Cát Tường,Universal Music Indochina Distributed Labels,2018-10-17,200,13,55,15,110,2090727669
-4SSnFejRGlZikf02HLewEF,bury a friend,Billie Eilish,Darkroom/Interscope Records,2019-03-29,196,6,199,208,111,2090727669
+4SSnFejRGlZikf02HLewEF,bury a friend,Billie Eilish,Darkroom/Interscope Records,2019-03-29,196,6,199,208,110,2090727669
+6osYEcGOlS3jEedcW96GlM,Gucci in Town,Vũ Cát Tường,Universal Music Indochina Distributed Labels,2018-10-17,200,13,55,15,111,2090727669
 7s7tnNQDgYutWEPaeanT58,Tìm Lại Bầu Trời,Tuấn Hưng,POPS WORLDWIDE,2018-02-09,232,16,-1,62,112,2084703122
 2Pvr8rYuh5J8V7QglJhH6W,Want You Back,5 Seconds of Summer,Capitol,2015-01-01,230,175,178,2,113,2078300638
 0G5x8z6rwAop7c0VksDS9M,Đau Thế Mà,Mỹ Tâm,MT Entertainment,2008-05-01,243,41,-1,48,114,2072134151
@@ -119,9 +119,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 5DlXq40tjFwd3SFp55AfKp,2021,Lauv,Lauv,2021-04-09,209,151,-1,1,118,2046440192
 45Mswno1F7FoZkcmQkp7fi,Thích Em Hơi Nhiều,Wren Evans,Universal Music Indochina,2021-06-25,209,1,173,1205,119,2046440192
 5O2P9iiztwhomNh8xkR9lJ,Night Changes,One Direction,Syco Music,2014-11-17,227,113,184,14,120,2033502358
-2g9jxHI2KqSS1MRwS7e95x,Chắc Ai Đó Sẽ Về,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2021-03-31,138,98,193,16,121,2030459097
-1SC5rEoYDGUK4NfG82494W,MONTERO (Call Me By Your Name),Lil Nas X,Columbia,2021-09-17,138,18,162,295,122,2030459097
-19CSr8rwW05VJL2F91KFNK,ivy,Taylor Swift,Taylor Swift,2021-03-26,138,84,161,5,123,2030459097
+19CSr8rwW05VJL2F91KFNK,ivy,Taylor Swift,Taylor Swift,2021-03-26,138,84,161,5,121,2030459097
+2g9jxHI2KqSS1MRwS7e95x,Chắc Ai Đó Sẽ Về,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2021-03-31,138,98,193,16,122,2030459097
+1SC5rEoYDGUK4NfG82494W,MONTERO (Call Me By Your Name),Lil Nas X,Columbia,2021-09-17,138,18,162,295,123,2030459097
 46JuEtCV69InGm7hONKrgA,INTRO: Neo Got My Back,"NCT, NCT U",SM Entertainment,2014-01-01,232,168,-1,1,124,2028798660
 09mEdoA6zrmBPgTEN5qXmN,Call Out My Name,The Weeknd,Universal Republic Records,2018-03-30,228,2,154,81,125,2027919097
 5QDLhrAOJJdNAmCTJ8xMyW,Dynamite,BTS,BIGHIT MUSIC,2020-11-20,199,1,10,970,126,2027218559
@@ -134,8 +134,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2XWjPtKdi5sucFYtVav07d,365,"Zedd, Katy Perry",Interscope Records,2019-02-08,207,4,-1,107,133,2003719303
 4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),"David Guetta, Bebe Rexha",Parlophone UK,2022-08-26,175,133,145,12,134,2000190304
 2HRqTpkrJO5ggZyyK6NPWz,Espresso,Sabrina Carpenter,Island Records,2024-08-23,175,9,-1,223,135,1987402446
-1LQn7eHlYpkxyUxtts8JlC,Bài Hát Của Em,Uyên Linh,Yin Yang Media,2017-04-20,211,58,86,2,136,1984798109
-1lsBTdE6MGsKeZCD6llNu7,Done for Me (feat. Kehlani),"Charlie Puth, Kehlani",Artist Partner,2018-05-11,209,3,-1,109,137,1984798109
+1lsBTdE6MGsKeZCD6llNu7,Done for Me (feat. Kehlani),"Charlie Puth, Kehlani",Artist Partner,2018-05-11,209,3,-1,109,136,1984798109
+1LQn7eHlYpkxyUxtts8JlC,Bài Hát Của Em,Uyên Linh,Yin Yang Media,2017-04-20,211,58,86,2,137,1984798109
 2qSkIjg1o9h3YT9RAgYN75,Espresso,Sabrina Carpenter,Island Records,2024-04-12,175,9,108,150,138,1984027311
 7uuEfUMuPeQ7RlSWa0cES2,Can't Help Falling In Love,Kina Grannis,WaterTower Music,2018-05-31,197,39,127,64,139,1969642945
 2plbrEY59IikOBgBGLjaoe,Die With A Smile,"Lady Gaga, Bruno Mars",Interscope,2024-08-16,252,4,23,169,140,1955875965
@@ -148,8 +148,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 4pWF7uyalOeveT6oansXmy,Lạc Trôi,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2018-04-12,203,24,164,220,147,1931676698
 1NbGcdgwRHZ5rbPIT9hdR3,Dance To This (feat. Ariana Grande),"Troye Sivan, Ariana Grande",EMI Recorded Music Australia Pty Ltd,2018-06-15,203,22,48,2,148,1931676698
 4QIo4oxwzzafcBWkKjDpXY,xanny,Billie Eilish,Darkroom/Interscope Records,2019-03-22,196,50,167,43,149,1914922428
-7uvXCImcEEKhjRRhLyjZLn,Thư Cho Anh,TRANG,Nhaccuatrang,2018-06-29,196,32,-1,84,150,1914241214
-1tNJrcVe6gwLEiZCtprs1u,3 Nights,Dominic Fike,Columbia,2019-03-22,196,132,132,15,151,1914241214
+1tNJrcVe6gwLEiZCtprs1u,3 Nights,Dominic Fike,Columbia,2019-03-22,196,132,132,15,150,1914241214
+7uvXCImcEEKhjRRhLyjZLn,Thư Cho Anh,TRANG,Nhaccuatrang,2018-06-29,196,32,-1,84,151,1914241214
 3KUGAgxo3b81X5bWoOp0U8,Back Door,Stray Kids,Republic Records - Stray Kids,2018-12-14,239,195,-1,1,152,1906586212
 0DhkTGjEaIHaSxTfC14BFm,Lullaby,"R3HAB, Mike Williams",CYB3RPVNK,2017-09-07,239,61,65,19,153,1904732879
 5WvAo7DNuPRmk4APhdPzi8,No Brainer,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper",Epic/We The Best,2018-07-12,174,8,51,50,154,1892202489
@@ -162,8 +162,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 1ulza3FB6CpNkTSJsmrA6l,Ket Nguyet,Đông Nhi,Universal Music Indochina,1984-11-29,263,23,23,2,161,1867296630
 4TfH2Syxsx2cAJShY8u6bT,Anh Luôn Là Lý Do,ERIK,Hi Entertainment,2021-04-01,216,17,192,90,162,1850589212
 5pcjystBtalYeqaiXCcgEY,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),"Taylor Swift, Maren Morris",Taylor Swift,2021-05-21,216,87,103,6,163,1850589212
-2iXclx3wUBGDnVXseACeS5,Cho Em Một Lần Yêu,Đông Nhi,6th Sense Entertainment JSC,2016-12-09,245,91,105,2,164,1831385410
-40T5GIqQ1CegGm2PTEl8Bu,idontwannabeyouanymore,Billie Eilish,Darkroom,2016-12-09,245,70,-1,303,165,1831385410
+40T5GIqQ1CegGm2PTEl8Bu,idontwannabeyouanymore,Billie Eilish,Darkroom,2016-12-09,245,70,-1,303,164,1831385410
+2iXclx3wUBGDnVXseACeS5,Cho Em Một Lần Yêu,Đông Nhi,6th Sense Entertainment JSC,2016-12-09,245,91,105,2,165,1831385410
 6Uj1ctrBOjOas8xZXGqKk4,Woman,Doja Cat,Kemosabe Records/RCA Records,2021-06-25,173,40,171,333,166,1830599216
 5vFlFRtQE31wtUFl6lRWMJ,Nhớ Người Hay Nhớ,"Châu Đăng Khoa, Khói, Sofia",NhacCuaTui,2021-05-21,229,97,160,42,167,1830048246
 4SqWKzw0CbA05TGszDgMlc,I Love You So,The Walters,Warner Records,2014-11-28,160,103,196,245,168,1828818825
@@ -190,8 +190,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0e7ipj03S05BNilyu5bRzt,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",Republic Records,2018-06-22,191,112,-1,19,189,1729351087
 1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, JID, Arcane, League of Legends",KIDinaKORNER/Interscope Records,2021-10-28,173,15,66,96,190,1723443361
 1HhNoOuqm1a5MXYEgAFl8o,Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, JID, Arcane, League of Legends",Kid Ina Korner / Interscope,2021-09-03,173,15,166,214,191,1723443361
-2hYlWnPvVZtQZGWfb35HPQ,I'm Not The Only One,Sam Smith,PLG - Capitol,2018-05-30,236,97,-1,33,192,1721474955
-3AyLh4R4D3fQfyqCsTdFf3,See U Later,BLACKPINK,YG Entertainment,2018-06-15,236,6,80,17,193,1721474955
+3AyLh4R4D3fQfyqCsTdFf3,See U Later,BLACKPINK,YG Entertainment,2018-06-15,236,6,80,17,192,1721474955
+2hYlWnPvVZtQZGWfb35HPQ,I'm Not The Only One,Sam Smith,PLG - Capitol,2018-05-30,236,97,-1,33,193,1721474955
 6NFyWDv5CjfwuzoCkw47Xf,Delicate,Taylor Swift,"Big Machine Records, LLC",2008-01-01,261,7,157,254,194,1710268807
 1cTZMwcBJT0Ka3UJPXOeeN,Nice For What,Drake,Cash Money/Drake LP6,2018-04-06,253,37,39,8,195,1707247311
 4fFfyouye6vrX9o9z4PVMu,Never Not,Lauv,Lauv,2020-04-17,182,66,188,30,196,1702814388
@@ -205,8 +205,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 4LWi5iOFhtccqLAWmInFXq,This Way,CARA,Yin Yang Media,2020-04-17,169,90,-1,52,204,1660022242
 3rUGC1vUpkDG9CZFHMur1t,greedy,Tate McRae,RCA Records Label,2023-09-15,132,91,173,206,205,1659132744
 3AFfyUXTfj12PgrOkZiiJo,Treat You Better,Shawn Mendes,Island Records,2016-06-24,295,192,192,2,206,1658277751
-1VNWdmXSbaNrnWod10WIL0,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",Universal Republic Records,2024-02-09,245,9,53,284,207,1657053685
-7CyPwkp0oE8Ro9Dd5CUDjW,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",XO / Republic Records,2023-06-23,245,9,107,589,208,1657053685
+7CyPwkp0oE8Ro9Dd5CUDjW,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",XO / Republic Records,2023-06-23,245,9,107,589,207,1657053685
+1VNWdmXSbaNrnWod10WIL0,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",Universal Republic Records,2024-02-09,245,9,53,284,208,1657053685
 51Fjme0JiitpyXKuyQiCDo,Lalala,"Y2K, bbno$",Columbia,2019-06-04,131,66,167,84,209,1642960195
 1SmiQ65iSAbPto6gPFlBYm,It’s Nice To Have A Friend,Taylor Swift,Taylor Swift,2019-08-30,131,35,139,10,210,1642960195
 60Z57Wdrn0pEVpHI7d7GAX,Stepping Stone,Eminem,Aftermath,2018-04-27,187,80,97,2,211,1640615389
@@ -273,8 +273,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0rKtyWc8bvkriBthvHKY8d,SLOW DANCING IN THE DARK,Joji,88rising Music,2018-10-26,209,73,85,21,272,1416065375
 1I5piMfFn8xWzS48uulTPQ,Cự Tuyệt,Hồ Ngọc Hà,Ho Ngoc Ha Entertainment,2020-08-07,188,44,52,2,273,1412909660
 15kQGEy89K8deJcZVFEn0N,This Feeling,"The Chainsmokers, Kelsea Ballerini",Disruptor Records/Columbia,2018-09-19,196,12,34,42,274,1409862951
-1OqDvYVDhJyFZny7XlfIyZ,Let Go,BTS,Universal Music LLC,2018-04-20,206,7,-1,12,275,1406064048
-3OtQmFLS5b3pTgIf44GQFJ,Side Effects,"The Chainsmokers, Emily Warren",Disruptor Records/Columbia,2018-08-17,206,31,78,35,276,1406064048
+3OtQmFLS5b3pTgIf44GQFJ,Side Effects,"The Chainsmokers, Emily Warren",Disruptor Records/Columbia,2018-08-17,206,31,78,35,275,1406064048
+1OqDvYVDhJyFZny7XlfIyZ,Let Go,BTS,Universal Music LLC,2018-04-20,206,7,-1,12,276,1406064048
 3FeVmId7tL5YN8B7R3imoM,My Universe,"Coldplay, BTS",Parlophone UK,2021-09-24,228,1,1,8,277,1405786411
 46HNZY1i7O6jwTA7Slo2PI,My Universe,"Coldplay, BTS",Parlophone UK,2021-10-15,226,1,14,580,278,1405786411
 2fbJ5Msx8KoDKpyufH5YsU,I'll Never Love Again - Extended Version,Lady Gaga,A Star is Born OST,2018-10-11,210,31,88,24,279,1397442865
@@ -300,9 +300,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 6Xgq7MvZiet0hVi3KaDSgJ,Holy (feat. Chance The Rapper),"Justin Bieber, Chance the Rapper",RBMG/Def Jam,2021-05-21,176,14,139,97,299,1331475068
 05mDaV9Vb3wrzjF6OPZnhq,Saint-Tropez,Post Malone,Republic Records,2019-08-23,185,43,116,40,300,1329230165
 11RnXtNEodnEWOMjjPfGxY,Mùa Đông Chưa Bao Giờ Tới (feat. Vũ.),"Uyên Linh, Vũ.",Yin Yang Media,2020-11-12,185,57,-1,60,301,1328711156
-0dS2u2UFd88TIzDDaZDLvS,Here With Me,d4vd,Darkroom/Interscope Records,2022-09-22,242,57,-1,231,302,1323310915
+5LrN7yUQAzvthd4QujgPFr,Here With Me,d4vd,Darkroom/Interscope Records,2023-05-26,242,57,148,187,302,1323310915
 78Sw5GDo6AlGwTwanjXbGh,Here With Me,d4vd,Darkroom/Interscope Records,2022-09-22,242,57,160,171,303,1323310915
-5LrN7yUQAzvthd4QujgPFr,Here With Me,d4vd,Darkroom/Interscope Records,2023-05-26,242,57,148,187,304,1323310915
+0dS2u2UFd88TIzDDaZDLvS,Here With Me,d4vd,Darkroom/Interscope Records,2022-09-22,242,57,-1,231,304,1323310915
 3HJ0EW4kd9S1NRCm039Fsk,Kẻ Cắp Gặp Bà Già (feat. Binz),"Hoàng Thùy Linh, Binz",The Leader Entertainment,2019-10-23,206,1,189,891,305,1319367867
 4kIpBfvK44bxqX7zo8K1oP,시작,Gaho,(주)블렌딩,2020-01-10,206,14,112,133,306,1319367867
 0mwvf42OdAeiK27QFQv9M4,"Mashup Ngày Chưa Giông Bão, Always Remember Us This Way","Hoà Minzy, Văn Mai Hương",Yin Yang Media,2019-01-01,133,69,152,66,307,1317025873
@@ -327,8 +327,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 1kuGVB7EU95pJObxwvfwKS,vampire,Olivia Rodrigo,Olivia Rodrigo PS,2023-09-08,220,8,159,66,326,1275639810
 3k79jB4aGmMDUQzEwa46Rz,vampire,Olivia Rodrigo,Olivia Rodrigo PS,2023-06-30,220,8,97,33,327,1275639810
 5N3hjp1WNayUPZrA8kJmJP,Please Please Please,Sabrina Carpenter,Island Records,2024-06-06,186,67,143,50,328,1275113251
-3Vi5XqYrmQgOYBajMWSvCi,Need to Know,Doja Cat,Kemosabe Records/RCA Records,2021-06-25,211,23,156,261,329,1268141098
-2CYVETnhM9aytqrazYYwrK,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Taylor Swift,Taylor Swift,2021-06-11,211,50,79,9,330,1268141098
+2CYVETnhM9aytqrazYYwrK,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Taylor Swift,Taylor Swift,2021-06-11,211,50,79,9,329,1268141098
+3Vi5XqYrmQgOYBajMWSvCi,Need to Know,Doja Cat,Kemosabe Records/RCA Records,2021-06-25,211,23,156,261,330,1268141098
 2ZlCGeK30BLRNSPC832pNZ,Forever (feat. Post Malone & Clever),"Justin Bieber, Post Malone, Clever",RBMG/Def Jam,2019-11-07,238,16,124,139,331,1266603437
 44WLOqH7QayQOQdeUHeKUK,We are Bulletproof : the Eternal,BTS,BIGHIT MUSIC,2020-02-14,213,6,163,223,332,1265626970
 1X7u3U0zsugJOqXtuUMYDF,Nếu Có Một Ngày - Original Soundtrack,Uyên Linh,MAR6,2018-11-30,181,12,181,106,333,1265549723
@@ -342,8 +342,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 5vNRhkKd0yEAg8suGBpjeY,APT.,"ROSÉ, Bruno Mars",Atlantic Records,2024-10-18,170,2,13,45,341,1235678364
 5hVghJ4KaYES3BFUATCYn0,EARFQUAKE,"Tyler, The Creator",Columbia,2016-08-19,182,91,152,14,342,1234551416
 6wf7Yu7cxBSPrRlWeSeK0Q,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,Darkroom/Interscope Records,2023-07-13,222,86,90,2,343,1232206629
-6VhuP99TE6gYNQRJIlAWFD,Until I Found You,Stephen Sanchez,Republic Records,2022-08-19,177,20,181,303,344,1228100250
-0T5iIrXA4p5GsubkhuBIKV,Until I Found You,Stephen Sanchez,Republic Records,2021-09-01,178,55,89,77,345,1228100250
+0T5iIrXA4p5GsubkhuBIKV,Until I Found You,Stephen Sanchez,Republic Records,2021-09-01,178,55,89,77,344,1228100250
+6VhuP99TE6gYNQRJIlAWFD,Until I Found You,Stephen Sanchez,Republic Records,2022-08-19,177,20,181,303,345,1228100250
 2yCoz2MS4TuHqvRZaP0WtJ,Là,Vũ.,WM Vietnam,2008-01-28,212,28,99,31,346,1226829979
 39afswHs17v53znQm1gDTY,Take A Bow,Rihanna,Def Jam Recordings,2008-01-28,212,116,-1,16,347,1226829979
 1Y3LN4zO1Edc2EluIoSPJN,Until I Found You (with Em Beihold) - Em Beihold Version,"Stephen Sanchez, Em Beihold",Republic Records,2022-04-22,176,30,180,337,348,1220866146
@@ -370,8 +370,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 4WxeDb9YZABqk3QaH9CCu1,NO WAY,"LeeHi, G.Soul",YG Entertainment,2019-05-17,190,150,171,2,369,1149616612
 1PfUKiMDKIlPEF9FfdJawc,hope is a dangerous thing for a woman like me to have - but I have it,Lana Del Rey,Polydor Records,2018-03-09,204,29,85,7,370,1140025571
 0CZ8lquoTX2Dkg7Ak2inwA,1950,King Princess,"Zelig Records, LLC./Columbia Records",2018-03-09,204,49,103,55,371,1140025571
-4EAV2cKiqKP5UPZmY6dejk,Everyday,"Logic, Marshmello",Def Jam Recordings,2017-09-08,175,72,73,2,372,1136914790
-1zB4vmk8tFRmM9UULNzbLB,Thunder,Imagine Dragons,Kid Ina Korner / Interscope,2017-09-08,175,70,-1,161,373,1136914790
+1zB4vmk8tFRmM9UULNzbLB,Thunder,Imagine Dragons,Kid Ina Korner / Interscope,2017-09-08,175,70,-1,161,372,1136914790
+4EAV2cKiqKP5UPZmY6dejk,Everyday,"Logic, Marshmello",Def Jam Recordings,2017-09-08,175,72,73,2,373,1136914790
 2CWnuF7ht55Ajyeg4WPvWu,DDU-DU DDU-DU,BLACKPINK,YG Entertainment,2018-07-13,198,1,66,215,374,1134817091
 5lnvm0uO6GI4wqQpxwjult,Sheep (Alan Walker Relift),"Alan Walker, LAY",Kreatell Music,2018-08-17,198,32,32,2,375,1134817091
 2KslE17cAJNHTsI2MI0jb2,Standing Next to You,Jung Kook,BIGHIT MUSIC,2023-11-03,206,1,12,455,376,1131502876
@@ -382,9 +382,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 1YM40hnSqAR89LoDXVFJBg,MOLA,WINNER,YG Entertainment,2018-10-16,178,143,-1,1,381,1127265387
 1Axzkl935WrIsBwDqk90yQ,Đưa Nhau Đi Trốn - Chill Version,"Đen, Linh Cáo",Đen,2019-10-04,168,69,125,507,382,1125552324
 4h4QlmocP3IuwYEj2j14p8,Sunroof,"Nicky Youre, hey daisy",Thirty Knots/Columbia,2021-12-03,163,123,-1,139,383,1119276950
-7FjZU7XFs7P9jHI9Z0yRhK,So Close,"NOTD, Felix Jaehn, Captain Cuts, Georgia Ku",Universal Music AB,2017-11-10,232,173,-1,1,384,1118666750
-3bH4HzoZZFq8UpZmI2AMgV,New Light,John Mayer,Columbia,2017-11-10,232,26,51,48,385,1118666750
-3FBk3DcCOC5gkhX50rbHbC,Magnetic,Strange Imagining,Strange Imagining,2017-11-10,232,98,98,2,386,1118666750
+3bH4HzoZZFq8UpZmI2AMgV,New Light,John Mayer,Columbia,2017-11-10,232,26,51,48,384,1118666750
+3FBk3DcCOC5gkhX50rbHbC,Magnetic,Strange Imagining,Strange Imagining,2017-11-10,232,98,98,2,385,1118666750
+7FjZU7XFs7P9jHI9Z0yRhK,So Close,"NOTD, Felix Jaehn, Captain Cuts, Georgia Ku",Universal Music AB,2017-11-10,232,173,-1,1,386,1118666750
 4UAW2gObi5o6sJla0qZpPn,Mariners Apartment Complex,Lana Del Rey,Polydor Records,2018-09-14,205,43,43,2,387,1117222312
 1kBbgxAUc4HQv7cgIayIDH,Ransom,Lil Tecca,Republic Records,2019-06-28,261,72,114,15,388,1114657637
 4dwwfiOzRNlKNUSgfx4Z2k,어질어질 (Outta My Head),JEON SOMI,THEBLACKLABEL,2019-06-08,261,94,123,3,389,1114657637
@@ -396,10 +396,10 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 4JUPEh2DVSXFGExu4Uxevz,Ice Cream (with Selena Gomez),"BLACKPINK, Selena Gomez",YG Entertainment,2020-10-02,183,2,143,274,395,1109758604
 21YnmkSDhUkmkkni22Svc4,In My Blood,Shawn Mendes,Island Records,2018-05-17,223,3,51,86,396,1101648887
 3WDIhWoRWVcaHdRwMEHkkS,Mama (feat. Ellie Goulding),"Clean Bandit, Ellie Goulding",Atlantic Records UK,2018-11-30,223,54,54,2,397,1101648887
-1nYeVF5vIBxMxfPoL0SIWg,Hallucinate,Dua Lipa,Warner Records,2020-03-20,361,51,120,6,398,1093474783
-4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,Selena Gomez,Interscope Records,2020-02-19,362,10,192,222,399,1093474783
-0Dy6DBLa5BHJJJBsYF43ga,Thu Cuối,Mr. T,POPS WORLDWIDE,2017-10-12,134,41,95,33,400,1090395803
-58q2HKrzhC3ozto2nDdN4z,I Like It,"Cardi B, Bad Bunny, J Balvin",Atlantic/KSR,2018-04-12,131,44,-1,83,401,1090395803
+4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,Selena Gomez,Interscope Records,2020-02-19,362,10,192,222,398,1093474783
+1nYeVF5vIBxMxfPoL0SIWg,Hallucinate,Dua Lipa,Warner Records,2020-03-20,361,51,120,6,399,1093474783
+58q2HKrzhC3ozto2nDdN4z,I Like It,"Cardi B, Bad Bunny, J Balvin",Atlantic/KSR,2018-04-12,131,44,-1,83,400,1090395803
+0Dy6DBLa5BHJJJBsYF43ga,Thu Cuối,Mr. T,POPS WORLDWIDE,2017-10-12,134,41,95,33,401,1090395803
 22wpxXRD3JTy7l6G1GHk3X,Nếu Có Buông Tay,Mỹ Tâm,MT Entertainment,2017-11-17,217,17,185,173,402,1088537068
 6QcERmfQKHKtRE4yW7f0cC,Everything I Need - Film Version,Skylar Grey,WaterTower Music,2019-03-29,292,1,187,190,403,1088323909
 7oDd86yk8itslrA9HRP2ki,Die For You - Remix,"The Weeknd, Ariana Grande",XO / Republic Records,2023-02-24,233,1,3,6,404,1088163869
@@ -410,8 +410,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 285pBltuF7vW8TeWk8hdRR,Lucid Dreams,Juice WRLD,Juice WRLD Mixtape / ISR P&D,2018-10-08,179,50,138,60,409,1083337459
 6yecmEZr6eI8L6P8MLO861,KILLING ME,iKON,YG Entertainment,2017-02-24,179,2,-1,80,410,1080931863
 58wyJLv6yH1La9NIZPl3ne,Can We Kiss Forever?,"Kina, Adriana Proenza",Columbia,2019-11-27,200,15,-1,428,411,1079369676
-2YpeDb67231RjR0MgVLzsG,Old Town Road (feat. Billy Ray Cyrus) - Remix,"Lil Nas X, Billy Ray Cyrus",Columbia,2019-06-19,191,19,112,267,412,1073422117
-3HVWdVOQ0ZA45FuZGSfvns,I Don't Care (with Justin Bieber),"Ed Sheeran, Justin Bieber",Atlantic Records UK,2019-05-03,191,2,10,53,413,1073422117
+3HVWdVOQ0ZA45FuZGSfvns,I Don't Care (with Justin Bieber),"Ed Sheeran, Justin Bieber",Atlantic Records UK,2019-05-03,191,2,10,53,412,1073422117
+2YpeDb67231RjR0MgVLzsG,Old Town Road (feat. Billy Ray Cyrus) - Remix,"Lil Nas X, Billy Ray Cyrus",Columbia,2019-06-19,191,19,112,267,413,1073422117
 5Pm00siVfiAzfwKiYa3C4U,Vậy Cũng Vui,Mỹ Tâm,MT Entertainment,2020-03-12,162,92,92,12,414,1073419600
 14msK75pk3pA33pzPVNtBF,7 rings,Ariana Grande,Republic Records,2019-01-30,193,1,1,15,415,1072153663
 4ytyLpIwUXbdFsNOvgNnmP,Four Seasons,TAEYEON,SM Entertainment,2019-03-29,193,5,145,53,416,1072153663
@@ -476,9 +476,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 35RDmXJ59YYGNlv1KfTGsP,Power is Power (feat. The Weeknd & Travis Scott),"SZA, The Weeknd, Travis Scott, Game of Thrones",Columbia,2012-10-22,220,53,143,13,475,930344784
 2Xr1dTzJee307rmrkt8c0g,love nwantiti (ah ah ah),CKay,Chocolate City Music,2019-08-30,146,77,182,108,476,929469522
 6PQ88X9TkUIAUIZJHW2upE,Bad Habits,Ed Sheeran,Atlantic Records UK,2021-06-25,186,2,46,99,477,923626918
-0TrPqhAMoaKUFLR7iYDokf,Know Your Worth,"Khalid, Disclosure","Right Hand Music Group, LLC/RCA Records",2020-02-20,163,63,120,22,478,922274126
+2qG81jL9UIP54uS8gYyP4k,Who,"Lauv, BTS",Lauv,2020-03-06,163,1,181,196,478,922274126
 5DqdesEfbRyOlSS3Tf6c29,It's You,Ali Gatie,Warner Records,2019-11-14,163,118,181,254,479,922274126
-2qG81jL9UIP54uS8gYyP4k,Who,"Lauv, BTS",Lauv,2020-03-06,163,1,181,196,480,922274126
+0TrPqhAMoaKUFLR7iYDokf,Know Your Worth,"Khalid, Disclosure","Right Hand Music Group, LLC/RCA Records",2020-02-20,163,63,120,22,480,922274126
 4NzMOnvSJVNKF7nw5NkXIP,bury a friend,Billie Eilish,Darkroom/Interscope Records,2019-01-24,163,6,42,44,481,922135295
 0O6u0VJ46W86TxN9wgyqDj,I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",Mercury Records/Republic Records,2022-06-03,193,10,155,135,482,919525354
 32WMRuL1yI6jT5DxJM2f2z,Giữ Cho Em Một Thế Giới,TRANG,VIEENT Music,2017-03-02,194,180,-1,1,483,918170734
@@ -504,8 +504,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3uwnnTQcHM1rDqSfA4gQNz,Cool for the Summer,Demi Lovato,Hollywood Records,2015-01-01,215,51,63,15,503,891790088
 1rDQ4oMwGJI7B4tovsBOxc,First Class,Jack Harlow,Generation Now/Atlantic,2022-04-08,174,74,84,23,504,890297131
 4DpNNXFMMxQEKl7r0ykkWA,Play Date,Melanie Martinez,Atlantic Records,2020-04-17,182,1,196,556,505,879597376
-2QZ7WLBE8h2y1Y5Fb8RYbH,In My Blood,Shawn Mendes,Island Records,2018-09-07,182,3,-1,384,506,879421899
-7EQpvVujgytLVY8vKiDHAg,bad idea,Ariana Grande,Republic Records,2018-09-28,182,12,82,22,507,879421899
+7EQpvVujgytLVY8vKiDHAg,bad idea,Ariana Grande,Republic Records,2018-09-28,182,12,82,22,506,879421899
+2QZ7WLBE8h2y1Y5Fb8RYbH,In My Blood,Shawn Mendes,Island Records,2018-09-07,182,3,-1,384,507,879421899
 4R2kfaDFhslZEMJqAFNpdd,cardigan,Taylor Swift,Taylor Swift,2020-07-24,286,3,152,69,508,874289978
 3cn6cFQYrUBkKOX8kQ6oiN,FAKE LOVE (Rocking Vibe Mix),BTS,BIGHIT MUSIC,2018-08-31,270,1,111,45,509,865045931
 6tHWl8ows5JOZq9Yfaqn3M,Mine,Bazzi,iamcosmic,2017-12-20,217,23,42,19,510,861128744
@@ -517,8 +517,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 5G2f63n7IPVPPjfNIGih7Q,Taste,Sabrina Carpenter,Island Records,2024-08-23,157,109,151,10,516,849904553
 5LZtB6nxvjIhUoElp3Zqk0,Teach Me How To Love,Shawn Mendes,Shawn Mendes LP4-5 PS/ Island,2021-02-12,205,37,106,29,517,846713990
 0lsRatBUs9HNIZAmoGABzk,Trampoline,SHAED,Photo Finish Records,2018-12-21,179,41,43,33,518,842993945
-1NfcsXY3m1BHJ0PfqZevL1,Ex's Hate Me,B Ray,B Ray,2019-03-04,222,9,19,12,519,840861000
-4n7jnSxVLd8QioibtTDBDq,On My Way,"Alan Walker, Sabrina Carpenter, Farruko",Kreatell Music,2019-03-29,222,4,26,134,520,840861000
+4n7jnSxVLd8QioibtTDBDq,On My Way,"Alan Walker, Sabrina Carpenter, Farruko",Kreatell Music,2019-03-29,222,4,26,134,519,840861000
+1NfcsXY3m1BHJ0PfqZevL1,Ex's Hate Me,B Ray,B Ray,2019-03-04,222,9,19,12,520,840861000
 0EMD15EVNwDlgGH2CH6ZEL,Ridin',NCT DREAM,SM Entertainment,2020-04-24,166,42,42,2,521,836153915
 0mL82sxCRjrs3br407IdJh,Is There Someone Else?,The Weeknd,XO / Republic Records,2022-01-06,199,109,181,9,522,835283738
 5zwwW9Oq7ubSxoCGyW1nbY,Pink Venom,BLACKPINK,YG Entertainment,2022-09-15,187,2,160,378,523,834494708
@@ -544,8 +544,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3zkWCteF82vJwv0hRLba76,Stitches,Shawn Mendes,Island Records,2018-12-14,160,132,167,44,543,806973611
 35ieKju5aLWFN5UgfJ27mL,SAD!,XXXTENTACION,"Bad Vibes Forever, LLC",2016-12-02,161,106,106,2,544,806973611
 6vBdBCoOhKHiYDDOcorfNo,Goodbyes (feat. Young Thug),"Post Malone, Young Thug",Republic Records,2019-07-12,204,7,97,181,545,804084349
-6zeeWid2sgw4lap2jV61PZ,Better,Khalid,"Right Hand Music Group, LLC/RCA Records",2018-10-26,205,5,184,291,546,802257369
-50kpGaPAhYJ3sGmk6vplg0,Love Yourself,Justin Bieber,RBMG/Def Jam,2018-09-07,205,67,196,702,547,802257369
+50kpGaPAhYJ3sGmk6vplg0,Love Yourself,Justin Bieber,RBMG/Def Jam,2018-09-07,205,67,196,702,546,802257369
+6zeeWid2sgw4lap2jV61PZ,Better,Khalid,"Right Hand Music Group, LLC/RCA Records",2018-10-26,205,5,184,291,547,802257369
 7xTDCxibzHpmUUQeso8Sg7,Playlist,TAEYEON,SM Entertainment,2021-03-19,171,174,-1,1,548,801045211
 5jQI2r1RdgtuT8S3iG8zFC,Lavender Haze,Taylor Swift,Taylor Swift,2022-10-21,202,5,192,39,549,800330163
 06v5p9PbGF6R0fbxGwMdlX,To the moon,TAEYEON,SM Entertainment,2021-03-03,227,180,-1,1,550,799392817
@@ -585,8 +585,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3Wf2YGdYT8xVdNsQSoRKk9,Youth (feat. Khalid),"Shawn Mendes, Khalid",Island Records,2018-05-11,201,5,37,12,584,740686374
 7gRFDGEzF9UkBV233yv2dc,Shut Down,BLACKPINK,YG Entertainment,2022-09-15,176,1,134,350,585,738443929
 3frUvGrmGcay91lvFbOgsN,Like It Is,"Kygo, Zara Larsson, Tyga",Kygo,2020-03-27,258,102,102,4,586,738237264
-2vwoaTIi1Go2twne3uetcV,Anh Chưa Biết Đâu,Mỹ Tâm,MT Entertainment,2021-03-19,191,27,192,46,587,737012502
-3nHbNyuUsVmtwHAcpeOrZR,"Đây Là Rap Việt (feat. Binz, JustaTee, Rhymastic, Wowy, Karik & Suboi)","RAP VIỆT, Binz, JustaTee, Rhymastic, Wowy, Karik, Suboi",WM Vietnam,2021-01-01,191,58,158,41,588,737012502
+3nHbNyuUsVmtwHAcpeOrZR,"Đây Là Rap Việt (feat. Binz, JustaTee, Rhymastic, Wowy, Karik & Suboi)","RAP VIỆT, Binz, JustaTee, Rhymastic, Wowy, Karik, Suboi",WM Vietnam,2021-01-01,191,58,158,41,587,737012502
+2vwoaTIi1Go2twne3uetcV,Anh Chưa Biết Đâu,Mỹ Tâm,MT Entertainment,2021-03-19,191,27,192,46,588,737012502
 3r8RuvgbX9s7ammBn07D3W,Ditto,NewJeans,ADOR,2022-12-19,186,1,112,245,589,733900502
 7IWTIkiWGWNQyYfOLdMrGD,Burn Out (feat. Dewain Whitmore),"Martin Garrix, Justin Mylo, Dewain Whitmore",Epic Amsterdam,2018-09-07,128,7,77,62,590,731575347
 7ne4VBA60CxGM75vw0EYad,That’s So True,Gracie Abrams,"Gracie Abrams, under exclusive license to Interscope Records",2024-10-18,166,99,-1,35,591,730903480
@@ -627,8 +627,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2Nib4r0saYQf2pUV4RFDhl,Interlude : Shadow,BTS,BIGHIT MUSIC,2020-02-13,242,14,168,68,626,678905293
 3uRLwBjI2TahxslcMTvpFs,DNA,BTS,BIGHIT MUSIC,2017-09-18,223,5,77,664,627,673813622
 3Vo4wInECJQuz9BIBMOu8i,Finesse - Remix; feat. Cardi B,"Bruno Mars, Cardi B",Atlantic Records,2017-09-18,223,38,109,19,628,673627792
-40nPimvmG05WYS7983bawZ,Cry for Me,Camila Cabello,Syco Music/Epic,2018-08-31,188,78,111,12,629,672977660
-7nUzeF9FfqecGYMGwa3d2s,Enhanced Depth,Trance Demon,1465604 Records DK,2018-08-31,188,158,-1,27,630,672977660
+7nUzeF9FfqecGYMGwa3d2s,Enhanced Depth,Trance Demon,1465604 Records DK,2018-08-31,188,158,-1,27,629,672977660
+40nPimvmG05WYS7983bawZ,Cry for Me,Camila Cabello,Syco Music/Epic,2018-08-31,188,78,111,12,630,672977660
 5Nm9ERjJZ5oyfXZTECKmRt,Stay With Me,Sam Smith,PLG - Capitol,2018-11-30,206,84,171,28,631,664220188
 0EQMrxdeiBhry9JCxskko3,I'm Fine,BTS,BIGHIT MUSIC,2018-08-17,198,5,64,54,632,664172106
 5EzitieoPnjyKHAq0gfRMa,Ko Ko Bop,EXO,SM Entertainment,2017-10-26,206,62,134,19,633,664085881
@@ -641,9 +641,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2z7UKVsBdbA7HFPunDKDP4,Strawberries & Cigarettes,Troye Sivan,EMI Recorded Music Australia Pty Ltd,2018-03-22,195,7,85,89,640,658718194
 0o9zmvc5f3EFApU52PPIyW,Shinunoga E-Wa,Fujii Kaze,Universal Music LLC,2020-05-20,186,25,185,334,641,658399605
 0HYAsQwJIO6FLqpyTeD3l6,Shinunoga E-Wa,Fujii Kaze,Universal Music LLC,2020-05-20,186,25,70,92,642,658399605
-6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,Sam Smith,PLG - Capitol,2019-07-24,210,6,-1,236,643,657226299
-696DnlkuDOXcMAnKlTgXXK,ROXANNE,Arizona Zervas,Arizona Zervas,2019-11-08,210,22,111,285,644,657226299
-2P9M7q49JXnwiab4TosOpW,Anh Đợi Em Được Không,Mỹ Tâm,MT Entertainment,2019-12-06,210,63,140,207,645,657226299
+696DnlkuDOXcMAnKlTgXXK,ROXANNE,Arizona Zervas,Arizona Zervas,2019-11-08,210,22,111,285,643,657226299
+2P9M7q49JXnwiab4TosOpW,Anh Đợi Em Được Không,Mỹ Tâm,MT Entertainment,2019-12-06,210,63,140,207,644,657226299
+6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,Sam Smith,PLG - Capitol,2019-07-24,210,6,-1,236,645,657226299
 4J4zx8xGJpuGndrVc06KaT,Diamond Heart,"Alan Walker, Sophia Somajo",Kreatell Music,2018-09-18,199,7,88,65,646,655099972
 14sOS5L36385FJ3OL8hew4,Happy Now,"Kygo, Sandro Cavazza",Kygo,2018-10-26,199,35,58,28,647,654793101
 33NAYATbWRoo5RuEP30JBZ,Love Shot,EXO,SM Entertainment,2018-12-14,198,9,196,68,648,654793101
@@ -656,9 +656,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 11cDEev79fPKi6uJCjUhu8,Who Do You Love,"The Chainsmokers, 5 Seconds of Summer",Disruptor Records/Columbia,2019-02-15,201,16,40,53,655,646697196
 2USlegnFJLrVLpoVfPimKB,Thunder,"Gabry Ponte, LUM!X, Prezioso",Spinnin' Records,2021-05-07,160,78,169,82,656,645532241
 2tAd0IDLH3nE8gJlxuB1bt,Nobody,Vũ Cát Tường,Universal Music Indochina Distributed Labels,2018-10-24,183,9,47,15,657,641217088
-1BSMpVGWs3v5BZKnAQziAc,Light Switch,Charlie Puth,Atlantic Records,2022-01-20,186,11,12,13,658,640946408
-3AVXwaOGCEL8cmBecfcsFJ,Light Switch,Charlie Puth,Atlantic Records,2022-01-19,188,11,183,222,659,640946408
-1jEBSDN5vYViJQr78W7jr2,Light Switch,Charlie Puth,Atlantic Records,2022-10-06,188,11,180,230,660,640946408
+1jEBSDN5vYViJQr78W7jr2,Light Switch,Charlie Puth,Atlantic Records,2022-10-06,188,11,180,230,658,640946408
+1BSMpVGWs3v5BZKnAQziAc,Light Switch,Charlie Puth,Atlantic Records,2022-01-20,186,11,12,13,659,640946408
+3AVXwaOGCEL8cmBecfcsFJ,Light Switch,Charlie Puth,Atlantic Records,2022-01-19,188,11,183,222,660,640946408
 0a4MMyCrzT0En247IhqZbD,Hype Boy,NewJeans,ADOR,2022-08-01,179,18,175,258,661,640811859
 300fqwkGKipgr8Ith1YQo2,Hành Tinh Song Song,Vũ.,WM Vietnam,2018-09-06,238,5,112,259,662,639291405
 0Jlcvv8IykzHaSmj49uNW8,the 1,Taylor Swift,Taylor Swift,2020-07-24,256,13,159,23,663,638110893
@@ -667,10 +667,10 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0zVEBZoLToUJygyfKg9GDS,Hôm Nay Tôi Buồn - Remastered 2023,Phùng Khánh Linh,+84 Vietnam New Wave,2019-02-22,202,9,-1,343,666,633493341
 6GzApXoBQiiAjak3tOQfV3,Lie To Me (feat. Julia Michaels),"5 Seconds of Summer, Julia Michaels",Capitol,2019-01-10,202,28,126,73,667,633493341
 3FAJ6O0NOHQV8Mc5Ri6ENp,Heartbreak Anniversary,GIVĒON,Epic/Not So Fast,2021-04-23,156,37,196,318,668,632978647
-4tNXntkAzQ5A2dfYRYGIIQ,Easier,5 Seconds of Summer,5 Seconds Of Summer/Interscope,2019-05-31,218,34,188,83,669,630882254
-24nK8tW7Pt3Inh2utttuoG,HIP,MAMAMOO,"RBW, Inc",2019-11-08,218,50,193,123,670,630882254
-2YWtcWi3a83pdEg3Gif4Pd,I Think He Knows,Taylor Swift,Taylor Swift,2019-07-24,218,12,69,10,671,630882254
-3g0mEQx3NTanacLseoP0Gw,Takeaway,"The Chainsmokers, ILLENIUM, Lennon Stella",Disruptor Records/Columbia,2019-12-06,218,13,191,311,672,630882254
+3g0mEQx3NTanacLseoP0Gw,Takeaway,"The Chainsmokers, ILLENIUM, Lennon Stella",Disruptor Records/Columbia,2019-12-06,218,13,191,311,669,630882254
+2YWtcWi3a83pdEg3Gif4Pd,I Think He Knows,Taylor Swift,Taylor Swift,2019-07-24,218,12,69,10,670,630882254
+4tNXntkAzQ5A2dfYRYGIIQ,Easier,5 Seconds of Summer,5 Seconds Of Summer/Interscope,2019-05-31,218,34,188,83,671,630882254
+24nK8tW7Pt3Inh2utttuoG,HIP,MAMAMOO,"RBW, Inc",2019-11-08,218,50,193,123,672,630882254
 5YMXGBD6vcYP7IolemyLtK,Euphoria,BTS,BIGHIT MUSIC,2018-08-24,229,3,-1,1037,673,626569595
 1ZPpGPko8oULTmi34rozMh,Trivia 轉 : Seesaw,BTS,BIGHIT MUSIC,2018-08-24,229,3,-1,62,674,626387267
 3afkJSKX0EAMsJXTZnDXXJ,Strawberries & Cigarettes,Troye Sivan,EMI Recorded Music Australia Pty Ltd,2020-04-24,210,7,-1,119,675,626327755
@@ -723,9 +723,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0todbbT9g5uQGbeFCiBf2F,imagine,Ariana Grande,Republic Records,2018-12-14,199,11,149,50,722,568101628
 2ARqIya5NAuvFVHSN3bL0m,The Middle,"Zedd, Maren Morris, Grey",UMGRI Interscope,2017-10-27,199,2,35,110,723,568101628
 0b3N9S5FHJ4h9k7IsKDVSy,Thiên Đàng,"Wowy, JoliPoli",Wowy Vietnam Co LTD,2019-11-13,177,91,-1,136,724,565117970
-4MdcsdRj7i8eBm0qFjO4L4,Feel Me,Selena Gomez,Interscope Records,2019-12-27,184,70,122,24,725,564672757
-4SOJYWYphrCcB9NCPpOAkZ,Đã Lỡ Yêu Em Nhiều,JustaTee,NGUYEN THANH TUAN,2019-09-26,184,125,142,213,726,564672757
-5Bti0azlFhMattVY76qFr9,Lạ Lùng,Vũ.,WM Vietnam,2019-12-27,184,12,156,2483,727,564672757
+4SOJYWYphrCcB9NCPpOAkZ,Đã Lỡ Yêu Em Nhiều,JustaTee,NGUYEN THANH TUAN,2019-09-26,184,125,142,213,725,564672757
+5Bti0azlFhMattVY76qFr9,Lạ Lùng,Vũ.,WM Vietnam,2019-12-27,184,12,156,2483,726,564672757
+4MdcsdRj7i8eBm0qFjO4L4,Feel Me,Selena Gomez,Interscope Records,2019-12-27,184,70,122,24,727,564672757
 2H4gf1wLxvYreMj1jcaN0k,Be Alright,Dean Lewis,Universal Music Australia Pty. Ltd.,2019-03-29,180,5,106,274,728,564638754
 3hIM9i6CkNDgvh0SbIgss2,Nắng Ấm Xa Dần - Onionn Remix,"Sơn Tùng M-TP, Onionn.",Universal Music Indochina Distributed Labels,2019-03-29,227,29,159,235,729,562106770
 1wmYHps3Ww2wfG6FEmjzuX,Cho Không,Suboi,Suboi Entertainment,2019-04-26,227,40,143,23,730,562106770
@@ -788,9 +788,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 69xohKu8C1fsflYAiSNbwM,Run BTS,BTS,BIGHIT MUSIC,2022-06-10,205,2,187,265,787,499570700
 7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",Sony Music UK,2018-04-09,208,7,181,193,788,499246884
 1Nj2oBISdFDSF8eDuXcALz,Start Again (feat. Logic),"OneRepublic, Logic",UMGRI Interscope,2018-05-03,194,18,29,32,789,498128573
-4GBkffrtA51p17JH35irGA,‘tis the damn season,Taylor Swift,Taylor Swift,2020-02-01,198,47,93,5,790,496256304
-3IB5qOeMayvpOdHxYCL5tZ,ON (Feat. Sia),"BTS, Sia",BIGHIT MUSIC,2020-02-21,198,1,-1,101,791,496256304
-2EmcTFQ1rM11wp2ztsXTHa,Black Swan,BTS,BIGHIT MUSIC,2020-02-21,198,1,195,432,792,496256304
+2EmcTFQ1rM11wp2ztsXTHa,Black Swan,BTS,BIGHIT MUSIC,2020-02-21,198,1,195,432,790,496256304
+4GBkffrtA51p17JH35irGA,‘tis the damn season,Taylor Swift,Taylor Swift,2020-02-01,198,47,93,5,791,496256304
+3IB5qOeMayvpOdHxYCL5tZ,ON (Feat. Sia),"BTS, Sia",BIGHIT MUSIC,2020-02-21,198,1,-1,101,792,496256304
 6SqOpxXMMS8axhJoqz8Nel,BOY,TREASURE,YG Entertainment,2020-07-10,196,61,75,9,793,494869121
 4bjN59DRXFRxBE1g5ne6B1,Haegeum,Agust D,BIGHIT MUSIC,2023-04-21,169,1,120,295,794,493601183
 3XF5xLJHOQQRbWya6hBp7d,you should see me in a crown,Billie Eilish,Darkroom/Interscope Records,2019-03-29,244,42,176,112,795,493295760
@@ -830,8 +830,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 01kfSdF9zfcDLri5sSWEoL,RAVE,Dxrk ダーク,Dxrk,2022-03-18,169,175,175,3,829,471412410
 3bkkMZEAhx7rTVz1C0itRQ,Black Swan,BTS,BIGHIT MUSIC,2020-02-21,180,1,150,317,830,470913458
 4bZZVcgWWMWPBwzTTp642w,Filter,BTS,BIGHIT MUSIC,2020-02-21,180,1,183,492,831,470913458
-27ycaQnQAxaPiyeg3nr2aB,Midnight Sky,Miley Cyrus,RCA Records Label,2020-08-07,190,51,165,32,832,469973155
-2rRJrJEo19S2J82BDsQ3F7,Falling,Trevor Daniel,Alamo,2018-10-19,190,28,-1,309,833,469973155
+2rRJrJEo19S2J82BDsQ3F7,Falling,Trevor Daniel,Alamo,2018-10-19,190,28,-1,309,832,469973155
+27ycaQnQAxaPiyeg3nr2aB,Midnight Sky,Miley Cyrus,RCA Records Label,2020-08-07,190,51,165,32,833,469973155
 3TZ7NHkMT82AhwuYsd00Hz,Your eyes tell,BTS,Universal Music LLC,2020-07-24,195,18,-1,100,834,467907311
 38T0tPVZHcPZyhtOcCP7pF,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,Columbia,2022-09-22,211,74,166,8,835,467854924
 6wo37KVqFJhtuxPTpLCcfe,Takeaway,"The Chainsmokers, ILLENIUM, Lennon Stella",Disruptor Records/Columbia,2019-07-23,211,13,57,100,836,464799530
@@ -884,8 +884,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 4P9Q0GojKVXpRTJCaL3kyy,All Of The Girls You Loved Before,Taylor Swift,Taylor Swift,2019-08-23,221,40,113,16,883,419335609
 2slqvGLwzZZYsT4K4Y1GBC,Only The Young - Featured in Miss Americana,Taylor Swift,Taylor Swift,2020-01-24,194,41,168,29,884,418907346
 0ljbDAWHXvX6Fbqy2qs98U,"Giàu Vì Bạn, Sang Vì Vợ (feat. RPT MCK)","RAP VIỆT, RPT MCK",WM Vietnam,2020-10-26,205,5,149,127,885,418731873
-6sCvvleqKbeyOkQDieBYgp,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,Roc Nation/Def Jam/Hollywood,2022-11-11,197,31,74,15,886,417373720
-35ovElsgyAtQwYPYnZJECg,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,Black Panther 2 Rihanna Recordings,2022-10-28,197,31,49,4,887,417373720
+35ovElsgyAtQwYPYnZJECg,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,Black Panther 2 Rihanna Recordings,2022-10-28,197,31,49,4,886,417373720
+6sCvvleqKbeyOkQDieBYgp,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,Roc Nation/Def Jam/Hollywood,2022-11-11,197,31,74,15,887,417373720
 543bCW2ruMPmxUBWirQ3MR,Cross Me (feat. Chance the Rapper & PnB Rock),"Ed Sheeran, Chance the Rapper, PnB Rock",Atlantic Records UK,2019-05-23,157,20,113,39,888,414094942
 4RewTiGEGoO7FWNZUmp1f4,Celebrity,IU,EDAM Entertainment,2021-04-09,278,35,50,20,889,413952327
 5YqltLsjdqFtvqE7Nrysvs,We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,Taylor Swift,2021-11-12,193,84,118,4,890,413492881
@@ -952,8 +952,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 7gkWXbAxIYuvtOpcN3p9GJ,God is a woman,Ariana Grande,Republic Records,2018-06-15,237,3,19,34,951,371767969
 5EYBryPOgIEPB7r5QIy6eG,Fallin' All In You,Shawn Mendes,Island Records,2018-11-09,191,144,-1,3,952,371103884
 4VginDwYTP2eaHJzO0QMjG,Circles,Post Malone,Republic Records,2019-08-23,171,24,43,3,953,369435304
-6156vnsRddJKe267tuaTRx,Cùng Anh,"Ngọc Dolil, Hagi, Stee",12 trái lê,2018-05-11,210,42,-1,54,954,369418254
-0kHyKhJMukHEPfeh8s7rdM,Born To Be Yours,"Kygo, Imagine Dragons",Kygo,2018-06-07,210,9,101,79,955,369418254
+0kHyKhJMukHEPfeh8s7rdM,Born To Be Yours,"Kygo, Imagine Dragons",Kygo,2018-06-07,210,9,101,79,954,369418254
+6156vnsRddJKe267tuaTRx,Cùng Anh,"Ngọc Dolil, Hagi, Stee",12 trái lê,2018-05-11,210,42,-1,54,955,369418254
 6bYJAOHKCvy9cSEAUR8NvG,Burning Up (Fire),BTS,BIGHIT MUSIC,2017-01-06,207,2,107,12,956,368892893
 6sWd8ZAH5bWWyjwb7ZV2Zb,LALALAY,SUNMI,MAKEUS ENTERTAINMENT,2019-08-16,234,46,124,19,957,366863535
 10SRMwb9EuVS1K9rYsBfHQ,Yet To Come,BTS,BIGHIT MUSIC,2022-06-10,194,1,191,275,958,366731576
@@ -1143,8 +1143,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3YG6hGI0I4DGLSRzZih9Po,The Party Song,Vũ Cát Tường,Universal Music Indochina Distributed Labels,2018-10-18,189,18,78,15,1142,263498735
 3dbLT62Cvs46Ju7a8gpr36,Savage,aespa,SM Entertainment,2021-10-05,238,6,186,117,1143,262709407
 50zAEIE4B1QqhPjRMK2Xmh,Running Wild,Jin,BIGHIT MUSIC,2024-11-19,152,1,166,77,1144,262431728
-3k6q0O9JnO2GhvD6C8fs20,Closer Than This,Jimin,BIGHIT MUSIC,2023-12-22,223,2,69,81,1145,261674696
-6qafqn8bBMy7t5c5WqpyRk,Closer Than This,Jimin,BIGHIT MUSIC,2024-07-19,223,2,159,98,1146,261674696
+6qafqn8bBMy7t5c5WqpyRk,Closer Than This,Jimin,BIGHIT MUSIC,2024-07-19,223,2,159,98,1145,261674696
+3k6q0O9JnO2GhvD6C8fs20,Closer Than This,Jimin,BIGHIT MUSIC,2023-12-22,223,2,69,81,1146,261674696
 4umIPjkehX1r7uhmGvXiSV,Intentions (feat. Quavo),"Justin Bieber, Quavo",RBMG/Def Jam,2020-02-21,250,1,175,464,1147,261435178
 6fqaMyg066xlukvUJWdM2T,00:00 (Zero O’Clock),BTS,BIGHIT MUSIC,2020-02-21,250,5,157,128,1148,261435178
 6gcuJpHu0Ey30D5WR76y98,You & Me,JENNIE,YG Entertainment,2023-10-06,179,5,199,101,1149,261218046
@@ -1200,8 +1200,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 281tmNk46TBQS9ACYMLYyA,Dance The Night Away,TWICE,Republic Records - TWICE,2018-07-11,214,26,74,36,1199,242085059
 7w05lsU2VLSeiT8Nukrv5M,Friends,BTS,BIGHIT MUSIC,2020-02-21,262,4,182,158,1200,241622299
 6c1QaQHdDhtFMfUkhueuXK,Monster,Red Velvet - IRENE & SEULGI,SM Entertainment,2020-07-24,237,7,174,58,1201,241358955
-4dKa5ZzlGqUy3Wo0yaXKNI,Cupid,FIFTY FIFTY,ATTRAKT,2023-02-24,174,49,52,9,1202,240876371
-5mg3VB3Qh7jcR5kAAC4DSV,Cupid,FIFTY FIFTY,ATTRAKT,2023-02-24,174,19,170,101,1203,240876371
+5mg3VB3Qh7jcR5kAAC4DSV,Cupid,FIFTY FIFTY,ATTRAKT,2023-02-24,174,19,170,101,1202,240876371
+4dKa5ZzlGqUy3Wo0yaXKNI,Cupid,FIFTY FIFTY,ATTRAKT,2023-02-24,174,49,52,9,1203,240876371
 6iWPQ9xAYH3ZePu2Z209Y6,Chỉ Là Không Cùng Nhau (Live Version),"Tăng Phúc, Trương Thảo Nhi",POPS WORLDWIDE,2021-06-09,211,20,130,153,1204,240851502
 4QfNOZN7vrQCQKK1ZJ3XPb,"Heaven - From ""Fifty Shades Freed"" Soundtrack",Julia Michaels,UME - Global Clearing House,2018-01-26,160,64,107,19,1205,240559744
 09IStsImFySgyp0pIQdqAc,The Middle,"Zedd, Maren Morris, Grey",UMGRI Interscope,2018-07-09,181,2,-1,615,1206,239915267
@@ -1212,8 +1212,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 1SymEzIT3H8UZfibCs3TYi,Afterglow,Taylor Swift,Taylor Swift,2019-08-30,218,27,80,10,1211,237998303
 2hnxrRNzF74mdDzpQZQukQ,There's No Way (feat. Julia Michaels),"Lauv, Julia Michaels",Lauv,2018-09-19,221,6,119,230,1212,237826036
 7pT6WSg4PCt4mr5ZFyUfsF,If We Have Each Other,Alec Benjamin,2018,2019-02-15,221,133,161,23,1213,237755724
-4hPpVbbakQNv8YTHYaOJP4,One Thing Right,"Marshmello, Kane Brown",Joytime Collective,2019-06-21,176,25,172,56,1214,237177508
-0XPsOSYzDJZJArevQNm2AR,Speechless (Full),Naomi Scott,Walt Disney Records,2019-05-30,176,16,45,38,1215,237177508
+0XPsOSYzDJZJArevQNm2AR,Speechless (Full),Naomi Scott,Walt Disney Records,2019-05-30,176,16,45,38,1214,237177508
+4hPpVbbakQNv8YTHYaOJP4,One Thing Right,"Marshmello, Kane Brown",Joytime Collective,2019-06-21,176,25,172,56,1215,237177508
 2Ti4hlta29bCeyrfqVSyQr,Ghé Qua,"PC, Dick, tofutns",12 trái lê,2020-07-24,234,89,153,357,1216,236828214
 7fYRg3CEbk6rNCuzNzMT06,Potion (with Dua Lipa & Young Thug),"Calvin Harris, Dua Lipa, Young Thug",Columbia,2022-05-27,214,117,117,3,1217,236692554
 3T4UodGkfZObJ43RtA5KFU,Connection,OneRepublic,Mosley / Interscope,2018-06-22,189,46,85,15,1218,236029457
@@ -1374,8 +1374,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2naEVOadudtXHwtZNfjMDM,Forever Young,BLACKPINK,YG Entertainment,2018-06-15,198,2,11,17,1373,177121478
 6ePyl2ns4b7MVYhjsj32ZK,Intro: Singularity,BTS,BIGHIT MUSIC,2018-05-18,285,12,177,122,1374,176880582
 2U6RSyXFnDVNYoD9iUgi09,Bomb Bomb,KARD,DSP Media,2019-03-08,180,97,143,4,1375,176605302
-0mjAU3yKR1QnXnHtjGJqTM,Rescue Me,OneRepublic,Mosley Music/Interscope Records,2019-05-31,144,65,177,62,1376,176345373
-3BwqiNZaKgfv0t3ygYkvjl,NHẠT,Phan Mạnh Quỳnh,Yin Yang Media,2019-05-31,144,56,182,44,1377,176345373
+3BwqiNZaKgfv0t3ygYkvjl,NHẠT,Phan Mạnh Quỳnh,Yin Yang Media,2019-05-31,144,56,182,44,1376,176345373
+0mjAU3yKR1QnXnHtjGJqTM,Rescue Me,OneRepublic,Mosley Music/Interscope Records,2019-05-31,144,65,177,62,1377,176345373
 3aAnwyBJY9OLNLqSgd4fZU,Deja Vu,TOMORROW X TOGETHER,Republic Records - TXT,2024-04-01,171,89,182,15,1378,176172460
 5WrEilrRI5cIW0DxMvQYPZ,Jopping,SuperM,SM Entertainment/Capitol Records,2019-10-11,195,18,190,38,1379,175988378
 4ZLzoOkj0MPWrTLvooIuaa,Get You The Moon (feat. Snøw),"Kina, Snøw",Columbia,2019-12-06,195,154,197,15,1380,175988378
@@ -1388,8 +1388,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 41A89rj3GoMG6ktN37L7PG,Alice,Lady Gaga,Interscope,2020-05-29,172,20,49,4,1387,172677033
 7hjWFO88DN3FroDMRIcehn,uhgood,RM,BIGHIT MUSIC,2018-10-29,219,10,71,11,1388,172390187
 5aJEh9Oqdz7PRLKTpH25pB,Lights Up,Harry Styles,Columbia,2019-11-15,125,18,128,52,1389,171725631
-5uFqjHOo3Sh0bVPCKf3DdH,Illusion,aespa,Warner Records,2022-06-01,195,45,185,11,1390,171614276
-396FqjKmViUZ92Wmm4rx3i,Illusion,aespa,SM Entertainment / Warner Records,2022-07-08,195,45,119,26,1391,171614276
+396FqjKmViUZ92Wmm4rx3i,Illusion,aespa,SM Entertainment / Warner Records,2022-07-08,195,45,119,26,1390,171614276
+5uFqjHOo3Sh0bVPCKf3DdH,Illusion,aespa,Warner Records,2022-06-01,195,45,185,11,1391,171614276
 7Cnpb1vBbC46RgVyyKLH7p,Whiplash,aespa,SM Entertainment,2024-10-21,183,28,125,42,1392,170561387
 0FOBJ5PbwOe5XBY9y0bnhi,BTBT (feat. DeVita),"B.I, Soulja Boy, DeVita",IOK x Transparent Arts,2022-05-13,220,35,176,48,1393,170544156
 1TaQciB8qqRZ9fxWGhS65X,Don't Know What To Do,BLACKPINK,YG Entertainment,2019-04-04,191,2,199,550,1394,170345258
@@ -1471,8 +1471,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0TMGV2zMZXOILVtQLtkI3G,What Am I,Why Don't We,Atlantic Records,2019-08-23,150,57,194,182,1470,147496862
 2dEpaH5nsfnzU61LQ9rJuH,Hoa Nở Không Màu,Hoài Lâm,NhacCuaTui,2020-06-22,202,5,-1,418,1471,146517338
 4fpd6aRKixkz7usrx7QQkh,Who,Chillies,WM Vietnam,2020-03-11,221,165,196,11,1472,145954179
-6ikDZX0oc8EKGj2vdMAEDv,Didn't I,OneRepublic,Mosley Music/Interscope Records,2020-03-06,252,174,-1,1,1473,145942721
-1rJyVbXb3njXbN3lokllKf,Người Hãy Quên Em Đi,Mỹ Tâm,MT Entertainment,2020-02-20,252,1,-1,857,1474,145942721
+1rJyVbXb3njXbN3lokllKf,Người Hãy Quên Em Đi,Mỹ Tâm,MT Entertainment,2020-02-20,252,1,-1,857,1473,145942721
+6ikDZX0oc8EKGj2vdMAEDv,Didn't I,OneRepublic,Mosley Music/Interscope Records,2020-03-06,252,174,-1,1,1474,145942721
 3OdIiWnYRHPYtC313Z0Bwy,Face-off,Jimin,BIGHIT MUSIC,2023-03-24,230,5,-1,33,1475,145692080
 6F61DTypUBPZiZqgd76Sjn,"Sau Này, Hãy Gặp Lại Nhau Khi Hoa Nở",Nguyên Hà,Golden Apple Corporation,2020-10-12,229,7,159,401,1476,144642787
 5cRKj1kynNFqiliT2ndZ3y,Akuma no Ko,Ai Higuchi,PONY CANYON INC.,2022-01-10,228,107,110,4,1477,144167501
@@ -1676,8 +1676,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2rbDhOo9Fh61Bbu23T2qCk,Always Remember Us This Way,Lady Gaga,A Star is Born OST,2018-10-22,209,2,158,713,1675,87155438
 3AWDeHLc88XogCaCnZQLVI,Cry For Me,The Weeknd,XO / Republic Records,2025-01-31,224,125,-1,1,1676,87117957
 6u7jPi22kF8CTQ3rb9DHE7,Old Town Road (feat. Billy Ray Cyrus) - Remix,"Lil Nas X, Billy Ray Cyrus",Columbia,2019-04-04,201,19,51,101,1677,86965036
-62HKW77nt6tudsIHXT2A0M,Come back to me,RM,BIGHIT MUSIC,2024-05-24,389,1,55,23,1678,86620045
-1PT8hWQvl2gRO1JhDcSUqN,Come back to me,RM,BIGHIT MUSIC,2024-05-10,389,1,1,6,1679,86620045
+1PT8hWQvl2gRO1JhDcSUqN,Come back to me,RM,BIGHIT MUSIC,2024-05-10,389,1,1,6,1678,86620045
+62HKW77nt6tudsIHXT2A0M,Come back to me,RM,BIGHIT MUSIC,2024-05-24,389,1,55,23,1679,86620045
 6PPbs1c7f7Ove5JHUPmNZ2,"Beautiful Ghosts - From The Motion Picture Soundtrack ""Cats""",Taylor Swift,Polydor Records,2019-11-08,182,136,-1,1,1680,85611893
 27kB4qLUCV8nZd2eOgj1Tk,KILLING ME,iKON,YG Entertainment,2018-08-06,202,2,61,61,1681,85567859
 5NhDDt5Zy8yGOECN3PLRdE,FIREWORK,TWICE,Republic Records - TWICE,2020-05-29,191,120,-1,1,1682,85126348
@@ -1742,8 +1742,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0CBFOvHlyqy30Q5tbyNHfQ,Want To,Dua Lipa,Warner Records,2018-09-05,190,46,90,22,1741,66822525
 7KNVYQdx7arRoeEJi9C9IR,Tinh Nhan Oi,"Orange, Binz",Orange & Binz,2019-02-15,237,78,172,241,1742,66596887
 5a64AElaxSpK6Fd3tw1hIq,"Càng Trưởng Thành, Càng Cô Đơn",Hồ Ngọc Hà,Ho Ngoc Ha Entertainment,2020-09-01,209,79,173,26,1743,66147613
-72JmsjVP3HeNfi4dzJDZWa,Đông Kiếm Em,Vũ.,WM Vietnam,2018-11-30,189,46,121,411,1744,65682180
-1SO5RyYJZUAI0aHkAkrF2p,Everything I Need - Film Version,Skylar Grey,WaterTower Music,2018-11-28,189,1,47,91,1745,65682180
+1SO5RyYJZUAI0aHkAkrF2p,Everything I Need - Film Version,Skylar Grey,WaterTower Music,2018-11-28,189,1,47,91,1744,65682180
+72JmsjVP3HeNfi4dzJDZWa,Đông Kiếm Em,Vũ.,WM Vietnam,2018-11-30,189,46,121,411,1745,65682180
 127QTOFJsJQp5LbJbu3A1y,Toosie Slide,Drake,OVO,2020-04-29,202,33,43,28,1746,65565378
 7gv3UYPh05ZDP7Io5BIsn7,Life Goes On,Agust D,BIGHIT MUSIC,2023-04-21,198,9,90,10,1747,64987871
 45ZGEdLxCZvdMX9jWlsAAx,I Don't Belong In This Club,"Why Don't We, Macklemore",Atlantic Records,2019-03-27,164,77,127,54,1748,64919759
@@ -1770,8 +1770,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2poOAWEj1CStqTVPgIHZ8s,Try Me,The Weeknd,Universal Republic Records,2018-03-13,218,46,62,3,1769,59450489
 6O7358UPKsUumzjumFxVtp,Reflection,BTS,BIGHIT MUSIC,2016-10-10,234,124,-1,1,1770,58982012
 4pygz13A6EcLL6ti7kqGaf,Super Tuna,Jin,BIGHIT MUSIC,2024-10-11,115,14,145,18,1771,58791342
-1J3SmWwlYAG68LGKr86MVH,Chúng Ta Của Hiện Tại,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2020-12-20,302,1,74,1504,1772,58638109
-6jOP08e9PHDnoF3reZcePE,Qua Khung Cửa Sổ,Chillies,WM Vietnam,2020-12-20,302,4,61,172,1773,58638109
+6jOP08e9PHDnoF3reZcePE,Qua Khung Cửa Sổ,Chillies,WM Vietnam,2020-12-20,302,4,61,172,1772,58638109
+1J3SmWwlYAG68LGKr86MVH,Chúng Ta Của Hiện Tại,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2020-12-20,302,1,74,1504,1773,58638109
 1NRLsf1eNCIwwUCzWcY3x5,This Love,Vũ Cát Tường,Universal Music Indochina Distributed Labels,2018-10-22,194,16,68,15,1774,58423845
 5b1PngLlxc7hj3fJXrE2Zm,Glitch Mode,NCT DREAM,SM Entertainment,2022-03-28,207,63,136,5,1775,58311850
 25h0TqC9H3BcMA7KjK5nHK,vaicaunoicokhiennguoithaydoi,"GREY D, tlinh",M Music Records,2022-06-20,226,1,34,621,1776,58174389
@@ -1854,8 +1854,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0s7RyyUlQfd8mnnboHe18n,Hẹn Gặp Em Dưới Ánh Trăng,"MANBO, HIEUTHUHAI, HURRYKNG",Gerdnang,2021-05-29,247,15,25,344,1853,42646469
 3JSodIIStqTwXSH7nXOuhe,Polar Night,Agust D,BIGHIT MUSIC,2023-04-21,165,27,-1,19,1854,42480874
 5ECHJ1llWBNYLVCYrllD3x,Chạy Khỏi Thế Giới Này,Da LAB,LOOPS Music,2022-06-30,255,9,43,947,1855,42351567
-1HEPfv1KllCYnVC1VmcpgD,POWER,G-DRAGON,Galaxy Corporation / EMPIRE,2024-10-31,143,101,-1,1,1856,42190880
-4XsJiRJQAK8TWcZCn0Dxlh,POWER,G-DRAGON,Galaxy Corporation / EMPIRE,2024-10-31,143,75,101,2,1857,42190880
+4XsJiRJQAK8TWcZCn0Dxlh,POWER,G-DRAGON,Galaxy Corporation / EMPIRE,2024-10-31,143,75,101,2,1856,42190880
+1HEPfv1KllCYnVC1VmcpgD,POWER,G-DRAGON,Galaxy Corporation / EMPIRE,2024-10-31,143,101,-1,1,1857,42190880
 5T6j0rfpCDBzAxC8Fpd0N7,An Thần,"Low G, Thắng",Rap Nhà Làm,2021-10-21,174,1,80,1199,1858,41782582
 3w9VRlKPvNxj40RdUGRweH,dorothea,Taylor Swift,Taylor Swift,2019-10-21,253,69,143,5,1859,41351496
 3hbi6hayJ6OibzGe3fWLwf,Peach,IU,Kakao Entertainment,2019-10-26,253,200,-1,1,1860,41351496
@@ -1880,8 +1880,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 76nqCfJOcFFWBJN32PAksn,Kings & Queens,Ava Max,Atlantic Records,2020-02-15,288,117,177,2,1879,39324924
 1fNwwml8UcKvhfM6YEVIRh,What if…,j-hope,BIGHIT MUSIC,2022-07-15,136,14,174,18,1880,39308808
 42pZsfo15M63tgCpDeGCx6,3 1 0 7 (feat. Duongg & Nâu),"W/N, Duongg, Nâu","HONG AN ENTERTAIMENT,.JSC",2016-06-29,202,21,31,328,1881,39307326
-6Hs2xIgB8nzyGFDvVA8lFa,Có Em,"Madihu, Low G",NGUYEN CHI PHONG,2022-04-22,219,2,108,1014,1882,39182113
-2Lag4WL4j3AMXzqWbEzmV6,Có Em,"Madihu, Low G",NGUYEN CHI PHONG,2022-06-03,219,2,13,83,1883,39182113
+2Lag4WL4j3AMXzqWbEzmV6,Có Em,"Madihu, Low G",NGUYEN CHI PHONG,2022-06-03,219,2,13,83,1882,39182113
+6Hs2xIgB8nzyGFDvVA8lFa,Có Em,"Madihu, Low G",NGUYEN CHI PHONG,2022-04-22,219,2,108,1014,1883,39182113
 7nxoUuqcsDfv3PsPGeciWy,Tell Me It's Not a Dream,10CM,소리날리,2024-03-16,236,144,162,14,1884,39127126
 7JJmb5XwzOO8jgpou264Ml,There's Nothing Holdin' Me Back,Shawn Mendes,Island Records,2019-01-22,281,65,173,361,1885,38956956
 1XIIvx9S19CZVc7eow7EX7,STOP,j-hope,BIGHIT MUSIC,2022-07-15,122,10,153,18,1886,38839480
@@ -1946,9 +1946,9 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 1J12HjUuXfJnaUdubTEzSR,Nghe Như Tình Yêu,HIEUTHUHAI,M Music Records,2021-07-09,193,30,48,1230,1945,33846376
 39p4Z2pUEn6B9OeSXcqOGP,Bỏ Em Vào BaLo,Tân Trần,MaiDao Music,2021-07-09,193,76,145,21,1946,33846376
 6D90VTeGEWYX5AkAtjHZh1,Like Crazy (Deep House Remix),Jimin,BIGHIT MUSIC,2023-03-26,181,99,116,7,1947,33561321
-3xvYvJAa0iUVKKsYcuDNlK,Hard On Yourself,"Charlie Puth, blackbear",Rumson Records,2013-01-01,293,178,182,2,1948,33392279
-0tWqngfOXKN1xOlYK4WwVw,Âm Thầm Bên Em,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2017-04-01,293,25,68,1380,1949,33392279
-2wZAvkgiOE5tyrnqhB69KA,Âm Thầm Bên Em,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2017-04-01,293,25,67,1563,1950,33392279
+2wZAvkgiOE5tyrnqhB69KA,Âm Thầm Bên Em,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2017-04-01,293,25,67,1563,1948,33392279
+3xvYvJAa0iUVKKsYcuDNlK,Hard On Yourself,"Charlie Puth, blackbear",Rumson Records,2013-01-01,293,178,182,2,1949,33392279
+0tWqngfOXKN1xOlYK4WwVw,Âm Thầm Bên Em,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2017-04-01,293,25,68,1380,1950,33392279
 4HxGH28DitgAuuKpEVrLzN,two years,ROSÉ,Atlantic Records,2024-12-06,168,12,92,58,1951,33272836
 08ULi904W2Po6pVj8nN7KC,đưa em về nhàa,"GREY D, Chillies",M Music Records,2023-04-24,240,3,46,313,1952,33237265
 5LQpQ6SDeaz6SIkR0lvsoC,đưa em về nhàa,"GREY D, Chillies",M Music Records,2023-04-24,240,3,81,649,1953,33237265
@@ -1975,10 +1975,10 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 7tFwBnuaGXqiiONukPRaCo,Miên Man,Minh Huy,LOOPS Music,2022-06-24,198,9,59,520,1974,31600940
 4nNkpu8vY9BtDKUFnDc3YD,Miên Man,Minh Huy,LOOPS Music,2023-09-14,205,19,19,16,1975,31600940
 3uT8QfoX0BE8ZJa4h98LDW,Wrong Times,"Puppy, Dangrangto",MaiDao Music,2023-05-17,211,3,6,441,1976,31558115
-65cM1nyMf9pFDZVV8xmPX9,dự báo thời tiết hôm nay mưa,GREY D,M Music Records,2022-11-22,281,5,83,801,1977,31395581
-7bFFUPBiF15n8m8RziqS4o,dự báo thời tiết hôm nay mưa,GREY D,M Music Records,2022-11-22,281,5,52,465,1978,31395581
-6aaNsCMWPBaUuJE1grH6Po,Có Chắc Yêu Là Đây,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2020-07-06,202,1,-1,1179,1979,31355740
-6HpDKKSDZ8QpSHfikENIBC,Gác Lại Âu Lo (feat. Miu Lê),"Da LAB, Miu Lê",Yin Yang Media,2020-07-06,202,1,25,418,1980,31355740
+7bFFUPBiF15n8m8RziqS4o,dự báo thời tiết hôm nay mưa,GREY D,M Music Records,2022-11-22,281,5,52,465,1977,31395581
+65cM1nyMf9pFDZVV8xmPX9,dự báo thời tiết hôm nay mưa,GREY D,M Music Records,2022-11-22,281,5,83,801,1978,31395581
+6HpDKKSDZ8QpSHfikENIBC,Gác Lại Âu Lo (feat. Miu Lê),"Da LAB, Miu Lê",Yin Yang Media,2020-07-06,202,1,25,418,1979,31355740
+6aaNsCMWPBaUuJE1grH6Po,Có Chắc Yêu Là Đây,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2020-07-06,202,1,-1,1179,1980,31355740
 2SL6oP2YAEQbqsrkOzRGO4,Venom - Music From The Motion Picture,Eminem,Aftermath,2018-08-24,247,91,112,2,1981,30975492
 5INyAMdQg6xDb1dcm2ncJf,Anh Thương Em Nhất Mà? (feat. Log & TiB),"Thùy Trang, LOG, Tib",Yin Yang Media,2019-07-15,201,87,197,44,1982,30746904
 28bxbqNcAuNxYDZYet6eZ7,Chỉ Một Đêm Nữa Thôi,"RPT MCK, tlinh",N0L4B3L,2023-03-02,142,4,189,687,1983,30741915
@@ -1989,8 +1989,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 71XAPIWKPk5fvPDWjykA1B,Sau Tat Ca. - Original,ERIK,Music in Air,2019-04-01,270,12,99,390,1988,29943774
 0SLhB9JLM4Ksz1XdwK3aQD,Hà Nội,"Obito, Shiki, VSTRA",12 trái lê,2023-10-10,166,5,24,265,1989,29866108
 5PGh9MyKry8slG5AfvD1eD,Hà Nội,"Obito, Shiki, VSTRA",12 trái lê,2023-10-10,166,5,55,478,1990,29866108
-3OVMe3H6iAxbLF8iD2UYrw,Chúng Ta Của Tương Lai,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2024-03-08,250,1,86,331,1991,29769029
-3qhYidu0cemx1v9PgTtpS5,Chúng Ta Của Tương Lai,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2024-03-08,250,1,2,40,1992,29769029
+3qhYidu0cemx1v9PgTtpS5,Chúng Ta Của Tương Lai,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2024-03-08,250,1,2,40,1991,29769029
+3OVMe3H6iAxbLF8iD2UYrw,Chúng Ta Của Tương Lai,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2024-03-08,250,1,86,331,1992,29769029
 0E13SojrSD7WpPyvzqZaKR,Anh Đừng Đi,"Lyly, Andiez",Universal Music Indochina Distributed Labels,2021-05-05,293,135,179,10,1993,29759104
 1qXl1gJnHmBDRF34W0dQpl,Gió (Chill Version),Vũ Cát Tường,Viettel,2019-12-06,293,187,-1,1,1994,29759104
 2oVoSgGAlog02WQ2pLCxcT,Now You're Gone (feat. Zara Larsson),"Tom Walker, Zara Larsson",Relentless Records,2019-03-01,192,146,-1,1,1995,29745991
@@ -2041,12 +2041,12 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 7AD5F85waSb3yZxZxEXhJM,Có Ai Thương Em Như Anh,"Tóc Tiên, Touliver",Yin Yang Media,2018-01-01,231,20,179,868,2040,26044167
 5Msoarj5hk9LguTtiIyqug,Ngày Đầu Tiên,Đức Phúc,Duc Phuc,2022-02-11,209,2,-1,779,2041,26004841
 5c2BZj7YSGHwvjf2CtO2S4,I will come to you,Jin,BIGHIT MUSIC,2024-11-15,157,30,-1,1,2042,25977654
-074ZzFyAvexkC3IWB2E6kK,Anh Đánh Rơi Người Yêu Này,"Andiez, AMEE",MaiDao Music,2022-11-30,208,32,33,26,2043,25950388
-0Nz6SyAceTkTy4lCDgqFJ7,Anh Đánh Rơi Người Yêu Này,"Andiez, AMEE",MaiDao Music,2019-07-15,218,15,43,159,2044,25950388
-5J90ah0ppUSev1uahqQiN6,Anh Đánh Rơi Người Yêu Này,"Andiez, AMEE",MaiDao Music,2019-07-15,218,15,190,799,2045,25950388
-71Q8QWLpvwvfQ6zM5BdCnm,Liệu Giờ (feat. Văn),"2T, Văn",LOOPS Music,2019-04-14,259,20,199,1569,2046,25876094
-59qrUpoplZxbIZxk6X0Bm3,Take You Dancing,Jason Derulo,Atlantic Records,2019-04-20,259,33,122,103,2047,25876094
-4Wdwvi2C5MD8zDi9Kg3x4X,Chúng Ta Sau Này,T.R.I,Yin Yang Media,2019-04-14,259,24,68,212,2048,25876094
+5J90ah0ppUSev1uahqQiN6,Anh Đánh Rơi Người Yêu Này,"Andiez, AMEE",MaiDao Music,2019-07-15,218,15,190,799,2043,25950388
+074ZzFyAvexkC3IWB2E6kK,Anh Đánh Rơi Người Yêu Này,"Andiez, AMEE",MaiDao Music,2022-11-30,208,32,33,26,2044,25950388
+0Nz6SyAceTkTy4lCDgqFJ7,Anh Đánh Rơi Người Yêu Này,"Andiez, AMEE",MaiDao Music,2019-07-15,218,15,43,159,2045,25950388
+4Wdwvi2C5MD8zDi9Kg3x4X,Chúng Ta Sau Này,T.R.I,Yin Yang Media,2019-04-14,259,24,68,212,2046,25876094
+71Q8QWLpvwvfQ6zM5BdCnm,Liệu Giờ (feat. Văn),"2T, Văn",LOOPS Music,2019-04-14,259,20,199,1569,2047,25876094
+59qrUpoplZxbIZxk6X0Bm3,Take You Dancing,Jason Derulo,Atlantic Records,2019-04-20,259,33,122,103,2048,25876094
 5hkAuvgkOrd4KpDOlCNsvW,Waiting For You,"MONO, Onionn.",M Music Records,2022-08-18,266,1,150,410,2049,25788616
 3CeCwYWvdfXbZLXFhBrbnf,Love Story (Taylor’s Version),Taylor Swift,Taylor Swift,2021-04-20,228,16,92,18,2050,25654673
 76KYaCx7UjHwlnrqzcovLZ,10 Ngàn Năm,PC,12 trái lê,2019-12-21,240,25,40,779,2051,25550895
@@ -2056,8 +2056,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3z06k8YF9CqX0CGFrlekOK,everything sucks,vaultboy,Fast Friends,2017-12-08,237,110,176,49,2055,25503091
 0Z2aGSjqO9RI3AKNwLSonR,Buồn Làm Chi Em Ơi,Hoài Lâm,NhacCuaTui,2019-02-16,237,117,148,17,2056,25503091
 4ecVWqbtW6phQGpZMAyqIU,Not Shy,ITZY,Republic Records - ITZY,2020-08-28,198,24,164,60,2057,25281474
-1UQNU5O9VttUgO16pxUnjw,Đánh Đổi,"Obito, Shiki, RPT MCK",12 trái lê,2023-10-10,227,6,79,479,2058,25263317
-2doGmsaPLdot51o80juiYU,Đánh Đổi,"Obito, Shiki, RPT MCK",12 trái lê,2023-10-10,227,6,60,266,2059,25263317
+2doGmsaPLdot51o80juiYU,Đánh Đổi,"Obito, Shiki, RPT MCK",12 trái lê,2023-10-10,227,6,60,266,2058,25263317
+1UQNU5O9VttUgO16pxUnjw,Đánh Đổi,"Obito, Shiki, RPT MCK",12 trái lê,2023-10-10,227,6,79,479,2059,25263317
 3Ys2PYl1wyPKQIwyqhP9cQ,Stay Gold,BTS,Universal Music LLC,2018-08-19,166,1,196,131,2060,25254578
 2JqnpexlO9dmvjUMCaLCLJ,Love Someone,Lukas Graham,Warner Records,2018-08-29,166,5,13,37,2061,25237938
 7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,Vertigo Berlin,2019-05-31,190,16,-1,987,2062,25170020
@@ -2084,11 +2084,11 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 53vcJaw0rQEux8YK9EDOxE,Không Yêu Xin Đừng Nói (Piano Version),UMIE,LOOPS Music,2022-01-22,244,118,163,2,2083,23541951
 4z0vfU3JiAsl99ZHL29hMm,Close to You,Jin,"SORI NARLY, Studio Dragon, KEYEAST",2025-01-26,228,36,186,6,2084,23441913
 2zRzmGerfTxc2epZHgaTdh,Cho Tôi Lang Thang,"Ngọt, Đen",Ngọt,2018-03-27,259,18,168,1645,2085,23387039
-2FY7b99s15jUprqC0M5NCT,Natural,Imagine Dragons,Kid Ina Korner / Interscope,2017-03-08,259,14,81,125,2086,23363768
-6mQLN3zRtAp6ovjusyYKrV,Rewrite The Stars (with James Arthur & Anne-Marie),"James Arthur, Anne-Marie",Atlantic Records,2018-11-03,259,40,124,128,2087,23363768
-4x8vUZgiQWB25eS2M0we6Q,Mượn Rượu Tỏ Tình,"BigDaddy, Emily",MUNIZ MUSIC COMPANY LIMITED,2019-01-18,198,1,119,1158,2088,23247772
-4stGDwiLe6DYjxCDSo4Xqf,Chờ Anh Nhé,"Hoàng Dũng, Hoàng Rob",Lirico Entertainment,2019-01-18,198,141,187,69,2089,23247772
-21PfXNAfEIaw1XZeSFGHkt,Mượn Rượu Tỏ Tình,"BigDaddy, Emily",MUNIZ MUSIC COMPANY LIMITED,2019-01-18,198,1,117,1159,2090,23247772
+6mQLN3zRtAp6ovjusyYKrV,Rewrite The Stars (with James Arthur & Anne-Marie),"James Arthur, Anne-Marie",Atlantic Records,2018-11-03,259,40,124,128,2086,23363768
+2FY7b99s15jUprqC0M5NCT,Natural,Imagine Dragons,Kid Ina Korner / Interscope,2017-03-08,259,14,81,125,2087,23363768
+21PfXNAfEIaw1XZeSFGHkt,Mượn Rượu Tỏ Tình,"BigDaddy, Emily",MUNIZ MUSIC COMPANY LIMITED,2019-01-18,198,1,117,1159,2088,23247772
+4x8vUZgiQWB25eS2M0we6Q,Mượn Rượu Tỏ Tình,"BigDaddy, Emily",MUNIZ MUSIC COMPANY LIMITED,2019-01-18,198,1,119,1158,2089,23247772
+4stGDwiLe6DYjxCDSo4Xqf,Chờ Anh Nhé,"Hoàng Dũng, Hoàng Rob",Lirico Entertainment,2019-01-18,198,141,187,69,2090,23247772
 0aeZzfSoZAcETjba8MCvco,Tell Me It's Over,Avril Lavigne,BMG Rights Management (US) LLC,2019-02-18,198,200,-1,1,2091,23232611
 5ecu1BvimgOepth3Scn0mK,hai triệu năm - Madihu mix,"Đen, Madihu, Biên",Đen,2019-08-22,233,81,157,41,2092,23232239
 6Pgmqg15yVexuOgtzuxwoX,Dancing in My Room,347aidan,Columbia,2019-07-22,233,112,134,68,2093,23232239
@@ -2098,8 +2098,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 0hiQvlWSSTr7n1kc1X2Lus,Bật Nhạc Lên,"HIEUTHUHAI, Harmonie",GERDNANG,2020-06-12,200,54,135,1537,2097,23008909
 7MbT4I8qGntX4fMdqMQgke,peace,Taylor Swift,Taylor Swift,2020-06-12,200,51,126,8,2098,23008909
 1HDrKXya87GMQfAGPlqNS9,Muốn Nói Với Em,"T Team, DT TAP RAP",Yin Yang Media,2020-06-29,217,12,91,479,2099,22842581
-5Bq05H6sE8g5NLfgjyapfr,"ex's hate me, Pt.2",AMEE,Yin Yang Media,2020-06-28,217,11,-1,621,2100,22806571
-5tdz7T4hTxA1ipJMBe24uX,"ex's hate me, Pt.2",AMEE,Yin Yang Media,2020-06-20,217,11,149,833,2101,22806571
+5tdz7T4hTxA1ipJMBe24uX,"ex's hate me, Pt.2",AMEE,Yin Yang Media,2020-06-20,217,11,149,833,2100,22806571
+5Bq05H6sE8g5NLfgjyapfr,"ex's hate me, Pt.2",AMEE,Yin Yang Media,2020-06-28,217,11,-1,621,2101,22806571
 6wyr4ReB05D9sJB1Rsmcqo,Chicken Noodle Soup (feat. Becky G),"j-hope, Becky G",BIGHIT MUSIC,2019-09-26,223,8,-1,58,2102,22790754
 0AJi38NumMDXqo8pRw6zdh,LẦN CUỐI (đi bên em xót xa người ơi),Ngọt,Ngọt,2019-06-10,223,3,193,1177,2103,22790754
 2wrJq5XKLnmhRXHIAf9xBa,"10,000 Hours (with Justin Bieber)","Dan + Shay, Justin Bieber",Warner Music Nashville,2019-10-06,223,2,-1,304,2104,22790754
@@ -2193,8 +2193,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2GE2p2dFpxp7OIz2QOFBzW,"KIM PHÚT, KIM GIỜ (feat. HURRYKNG, HIEUTHUHAI, Negav, Pháp Kiều & Isaac)","ANH TRAI ""SAY HI"", HURRYKNG, HIEUTHUHAI, Negav, Pháp Kiều, Isaac",Anh Trai Say Hi,2024-08-26,295,5,28,159,2192,18235913
 7td8DTWoGC9u9db37mGHX6,Nấu ăn cho em,"Đen, PiaLinh",Đen,2023-05-13,241,6,182,467,2193,18229147
 5oFEvbM7lGnx8jfAkuhVyo,MỘNG YU,"AMEE, RPT MCK",Yin Yang Media,2024-08-02,203,2,56,183,2194,18215622
-4YSryHqsD82Krc81l1EJD5,ghệ iu dấu của em ơi,"tlinh, 2pillz, WOKEUP",Universal Music Indochina Distributed Labels,2023-08-16,205,4,-1,465,2195,18197585
-27fqy8VruqYZlKiK1qfwEd,ghệ iu dấu của em ơi,"tlinh, 2pillz, WOKEUP",Universal Music Indochina Distributed Labels,2023-02-10,206,4,178,163,2196,18197585
+27fqy8VruqYZlKiK1qfwEd,ghệ iu dấu của em ơi,"tlinh, 2pillz, WOKEUP",Universal Music Indochina Distributed Labels,2023-02-10,206,4,178,163,2195,18197585
+4YSryHqsD82Krc81l1EJD5,ghệ iu dấu của em ơi,"tlinh, 2pillz, WOKEUP",Universal Music Indochina Distributed Labels,2023-08-16,205,4,-1,465,2196,18197585
 4BMFHmawdG3nYzpS7VHbaW,Hot,"Wxrdie, 2pillz",420Ent.,2020-12-31,196,117,-1,3,2197,18134677
 44UFK3c62FzOHSemTpz8ZM,Trong Tri Nho Cua Anh Cover - Original,ERIK,Music in Air,2019-07-03,266,175,-1,25,2198,18056977
 3J3nv18iIrOhca1ZWNeuyW,Đã Lỡ Yêu Em Nhiều,JustaTee,NGUYEN THANH TUAN,2022-07-11,261,21,169,732,2199,18056977
@@ -2219,8 +2219,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 4acXEYw7ayyJnm9GXDrqiL,Hit Me Up (feat. Nomovodka),"Binz, Nomovodka",Spacespeakers,2023-10-19,268,3,190,195,2218,17205734
 4gaxEUZE4z9pJAVTSFwgQI,một đời,"14 Casper, Bon Nghiêm, buitruonglinh",DANDERLÉON,2023-03-03,328,26,50,306,2219,17166774
 4TMdpMJNQdcawl8JjZEwLk,Nụ hôn Bisou,Lãng,12 trái lê,2022-10-28,157,9,188,299,2220,17162157
-3XCp5o1FUpAH0aj2Hmj5yz,Call Me,"Wren Evans, itsnk",Universal Music Indochina,2023-12-17,215,9,141,260,2221,17152668
-08GUMwJRpisuxHGyRzoSuu,Call Me,"Wren Evans, itsnk",Universal Music Indochina,2023-08-15,215,14,57,122,2222,17152668
+08GUMwJRpisuxHGyRzoSuu,Call Me,"Wren Evans, itsnk",Universal Music Indochina,2023-08-15,215,14,57,122,2221,17152668
+3XCp5o1FUpAH0aj2Hmj5yz,Call Me,"Wren Evans, itsnk",Universal Music Indochina,2023-12-17,215,9,141,260,2222,17152668
 7wkX67ruxr3x2GFz6vyIX9,Bước Qua Mùa Cô Đơn,Vũ.,WM Vietnam,2018-03-01,211,1,52,631,2223,17143767
 5IO873C4IP8pXdsXcJiBes,Chúng Ta Sau Này,T.R.I,Yin Yang Media,2021-01-29,211,24,171,620,2224,17143767
 0jFHMDRXxKaREor3hBEEST,Gashina,SUNMI,"Makeus Entertainment, The Black Label",2017-01-02,198,108,-1,30,2225,17095237
@@ -2233,8 +2233,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 1iQDltZqI7BXnHrFy4Qo1k,Trampoline (with ZAYN),"SHAED, ZAYN",Photo Finish Records,2015-09-11,242,23,46,61,2232,16932708
 3Alwi53Ahc2GwHgvel42b2,Ngày Đẹp Trời Để Nói Chia Tay,Lou Hoàng,WM Vietnam,2024-06-13,220,4,64,232,2233,16907089
 1sEOTXdVl8X7SzuJi0P1cq,Van Gogh (feat. Ashley Alisha),"Dept, Ashley Alisha",WM Korea,2022-12-01,192,33,187,186,2234,16873929
-40fjFtLBN98eDzOS4NfXs5,Nước Mắt Em Lau Bằng Tình Yêu Mới,"Da LAB, Tóc Tiên",MUNIZ MUSIC COMPANY LIMITED,2019-09-12,286,95,128,482,2235,16799462
-7J9l9ebYB3IEs5ea5J1M7a,Nước Mắt Em Lau Bằng Tình Yêu Mới,"Da LAB, Tóc Tiên",MUNIZ MUSIC COMPANY LIMITED,2019-09-12,286,95,147,483,2236,16799462
+7J9l9ebYB3IEs5ea5J1M7a,Nước Mắt Em Lau Bằng Tình Yêu Mới,"Da LAB, Tóc Tiên",MUNIZ MUSIC COMPANY LIMITED,2019-09-12,286,95,147,483,2235,16799462
+40fjFtLBN98eDzOS4NfXs5,Nước Mắt Em Lau Bằng Tình Yêu Mới,"Da LAB, Tóc Tiên",MUNIZ MUSIC COMPANY LIMITED,2019-09-12,286,95,128,482,2236,16799462
 0BX2eDMZJrGzApf4ZGXrFi,"NGÁO NGƠ (feat. HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL & Orange)","ANH TRAI ""SAY HI"", HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL, Orange",Anh Trai Say Hi,2024-08-29,252,5,42,180,2237,16776659
 64PCybDxes3edHijrcsPV4,"NGÁO NGƠ (feat. HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL & Orange)","ANH TRAI ""SAY HI"", HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL, Orange",Anh Trai Say Hi,2024-08-05,252,5,6,11,2238,16727313
 460WMeltK2dxce4qhcaCF7,Normal No More,TYSM,EFFESS,2020-04-17,200,68,164,73,2239,16700731
@@ -2261,8 +2261,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3nw5vYaH4qVx8joq3qhtNx,Okeokeoke,Low G,Rap Nhà Làm,2020-11-09,139,85,193,399,2260,15764368
 6GDIW3Le2tM0hMWD3pvefH,"ถ้าเธอรักใครคนหนึ่ง - เพลงประกอบภาพยนตร์ ""บุพเพสันนิวาส 2""",Ink Waruntorn,GMM Music Public Company Limited,2022-07-14,246,105,105,3,2261,15753759
 7IkuRNVAjwXpZ2DheQHL4L,FIRE,EXID,SME Korea Inc.,2022-09-29,207,119,-1,1,2262,15678931
-72DoSwhL22gngThjKqzoYr,PHONG,"VSTRA, TGSN, Tyronee",CDSL,2023-11-11,212,26,172,335,2263,15636007
-0ibp5h8QATkvC6P5cO5TUV,PHONG (feat. TGSN & Tyronee),"VSTRA, TGSN, Tyronee",CDSL,2022-05-20,212,26,181,270,2264,15636007
+0ibp5h8QATkvC6P5cO5TUV,PHONG (feat. TGSN & Tyronee),"VSTRA, TGSN, Tyronee",CDSL,2022-05-20,212,26,181,270,2263,15636007
+72DoSwhL22gngThjKqzoYr,PHONG,"VSTRA, TGSN, Tyronee",CDSL,2023-11-11,212,26,172,335,2264,15636007
 3ET3xHCLMGd57u06A9RjJ0,Nói Dối,Ronboogz,MaiDao Music,2022-12-12,206,65,133,453,2265,15592298
 1Wg83IToHimkgKtzQExO6s,Anh Chồng Quốc Dân Của Em (feat. Lăng LD & Rhymastic),"RAP VIỆT, Lăng LD, Rhymastic",WM Vietnam,2018-03-01,190,21,107,15,2266,15475461
 3i02vLHwlt14hNJtdXmeM7,Phải Chăng Em Đã Yêu? (feat. RedT),"Juky San, REDT",Yin Yang Media,2021-02-12,190,1,189,548,2267,15475461
@@ -2303,8 +2303,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2uaiyLKnYvazyfR0Ky3Kbk,Let Me Down Slowly,Alec Benjamin,2018,2018-06-06,283,18,35,158,2302,14382796
 4JWQC6gyYoPRnxRxk0ta2M,Peer Pressure,"James Bay, Julia Michaels",Republic Records,2018-11-16,283,128,-1,3,2303,14382796
 4Z2s8VRI8WEZyU0xeqnlJD,Music To My Eyes,"Lady Gaga, Bradley Cooper",A Star is Born OST,2018-10-27,251,84,-1,1,2304,14357490
-2MHGIiWus5xHykiZGuDtNe,Em Thích,"Sean, Lửa",LOOPS Music,2021-12-03,176,52,170,153,2305,14354348
-3XEspwit4d8gwKKgeopfCv,Em Thích,"Sean, Lửa",LOOPS Music,2021-12-03,176,52,164,589,2306,14354348
+3XEspwit4d8gwKKgeopfCv,Em Thích,"Sean, Lửa",LOOPS Music,2021-12-03,176,52,164,589,2305,14354348
+2MHGIiWus5xHykiZGuDtNe,Em Thích,"Sean, Lửa",LOOPS Music,2021-12-03,176,52,170,153,2306,14354348
 2IDZxVWQypWxYIP6wqDzGN,em bỏ hút thuốc chưa (feat. traitimtrongvang),"Bích Phương, traitimtrongvang",Yin Yang Media,2018-03-01,209,1,188,498,2307,14348538
 0vB6E5gTZtnpodQCCW29JN,sao anh chưa về nhà,"AMEE, Ricky Star",Yin Yang Media,2020-06-29,181,55,-1,304,2308,14292224
 4M3s2pObhdGGipU9akgGNa,Giữa Đại Lộ Đông Tây,Uyên Linh,Yin Yang Media,2021-11-04,227,9,-1,630,2309,14239280
@@ -2316,8 +2316,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3dvkpe9FEekxxgaQtxOHQI,Mặt Mộc,"Phạm Nguyên Ngọc, VAnh, Ân Nhi, BMZ",BMZ,2022-08-05,214,26,-1,420,2315,14026189
 7h0d2h0fUmzbs7zeFigJPn,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,"Travis Scott, ROSALÍA, Lil Baby",Cactus Jack/Epic,2013-03-28,243,132,159,6,2316,13968087
 2qsQ8eVDPmobZpvDxQCVQu,Barbie Tingz,Nicki Minaj,Nicki Minaj/Cash Money,2013-03-28,243,13,68,3,2317,13961222
-3nAwC1qVqRQYiRCrp6q1dU,Say Đắm Trong Lần Đầu,Winno,MaiDao Music,2021-11-09,186,118,195,362,2318,13888995
-079Fpq9a18TX4ir9znmv84,Say Đắm Trong Lần Đầu,Winno,MaiDao Music,2021-11-10,186,118,163,60,2319,13888995
+079Fpq9a18TX4ir9znmv84,Say Đắm Trong Lần Đầu,Winno,MaiDao Music,2021-11-10,186,118,163,60,2318,13888995
+3nAwC1qVqRQYiRCrp6q1dU,Say Đắm Trong Lần Đầu,Winno,MaiDao Music,2021-11-09,186,118,195,362,2319,13888995
 4inMQ83GNpQ2OHDredH5hW,24h,Lyly,WM Vietnam,2020-10-28,257,120,192,92,2320,13807209
 7uiBocndm12aKbsdnQ3Scx,Undecided,Chris Brown,Chris Brown Entertainment/RCA Records,2019-01-05,257,140,140,9,2321,13789562
 6HpkHTTwfVmSoopeloHqOp,"Anh Là Ai? (feat. Dick, DT & UMIE)","RAP VIỆT, Dick, DT TAP RAP, UMIE",DAT VIET VAC,2023-08-09,224,3,-1,182,2322,13787245
@@ -2370,8 +2370,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 4yJ6CHGtEjUnMsZ4IMqReH,Noir,SUNMI,MAKEUS ENTERTAINMENT,2017-05-13,162,71,169,11,2369,12357198
 1RsD951uUUlJx0MRioZfev,Cry About It Later,Katy Perry,Capitol Records,2020-08-28,183,59,90,19,2370,12315294
 6Wi18yv3aoO0ZF4uulguof,Đá tan,"Ngọt, Mạc Mai Sương",Ngọt,2022-11-25,202,43,199,300,2371,12275498
-01WDJ9gcaXFuNzY5ir9CaE,Lắm Mối Tối Ngồi Không,Hoàng Thùy Linh,The Leader Entertainment,2019-10-20,194,3,176,256,2372,12228807
-2qnnREp8mFVipaEoUlw9ya,Hai Triệu Năm,"Đen, Biên",Đen,2019-06-23,194,2,151,791,2373,12228807
+2qnnREp8mFVipaEoUlw9ya,Hai Triệu Năm,"Đen, Biên",Đen,2019-06-23,194,2,151,791,2372,12228807
+01WDJ9gcaXFuNzY5ir9CaE,Lắm Mối Tối Ngồi Không,Hoàng Thùy Linh,The Leader Entertainment,2019-10-20,194,3,176,256,2373,12228807
 4LDhkOharOhue7nZMFYmCu,Cảm Nắng (feat. Rtee),"SUNI, Rtee",4B Nexus,2017-07-21,229,66,188,423,2374,12188649
 7dsEsd0rlVs6PddRJj64ho,Sally Walker,Iggy Azalea,Bad Dreams Records / EMPIRE,2018-03-01,202,186,-1,1,2375,12181187
 5B66uVtd4X6Tls9I2VQm4N,Lâu Lâu Nhắc Lại,"Hà Nhi, Khói",Hà Nhi,2022-09-22,270,25,-1,311,2376,12169773
@@ -2384,8 +2384,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 2QyOYFAxW2khNYee4yeT6r,Thiêu Thân,"B Ray, Sofia, Châu Đăng Khoa, Masew",Great Entertainment,2022-06-18,199,13,158,86,2383,11839816
 0nbXyq5TXYPCO7pr3N8S4I,The Box,Roddy Ricch,Atlantic Records,2019-01-25,242,51,192,181,2384,11830773
 7COXchtUOMd6uIT6HvmRaI,i'm so tired...,"Lauv, Troye Sivan",Lauv,2019-01-25,242,6,150,281,2385,11826319
-1M4OcYkxAtu3ErzSgDEfoi,Up,Cardi B,Atlantic Records,2021-04-21,171,60,179,86,2386,11820122
-4rPrBNnDgdZpS5gosHv0yr,để quên,Ngọt,Ngọt,2021-04-21,171,23,-1,126,2387,11820122
+4rPrBNnDgdZpS5gosHv0yr,để quên,Ngọt,Ngọt,2021-04-21,171,23,-1,126,2386,11820122
+1M4OcYkxAtu3ErzSgDEfoi,Up,Cardi B,Atlantic Records,2021-04-21,171,60,179,86,2387,11820122
 20jc2qrUesWnyDYnWq0XW8,Nếu Ngày Ấy,SOOBIN,Zing MP3,2019-07-22,293,136,162,46,2388,11806423
 0e6fZkLArSmDIHnZcIua7t,Không Yêu Em Thì Yêu Ai?,"Vũ., Low G",WM Vietnam,2024-09-27,233,14,49,127,2389,11733771
 1pQHqk6qWM5xbNeobMCGBZ,Dân Chơi Xóm (feat. RPT MCK & JustaTee),"RAP VIỆT, RPT MCK, JustaTee",WM Vietnam,2013-01-01,262,2,168,228,2390,11702627
@@ -2438,8 +2438,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 1vG1po7CMKs979IuxjXPAl,Mây Lang Thang,"Tùng TeA, PC, TaynguyenSound",12 trái lê,2020-02-02,199,126,164,133,2437,10602942
 23zwIyB2kh1hMKBhs7edPJ,Suýt Nữa Thì,Andiez,"HONG AN ENTERTAIMENT,.JSC",2015-07-10,261,84,180,162,2438,10554073
 5LILPLYXMhiJqSW19s4k1t,CALL ANYTIME,"JINU, MINO",YG Entertainment,2018-03-01,276,127,-1,1,2439,10523458
-6cpjHSaH0xK3Lz6FqUniHm,Send It - feat. Rich Homie Quan,"Austin Mahone, Rich Homie Quan",BMG Rights Management (US) LLC,2018-02-01,276,39,94,56,2440,10517616
-6qyz1KOlGJsKYJ4ZsRmRSD,TWIT,HWASA,"RBW, Inc",2018-06-06,275,60,188,45,2441,10517616
+6qyz1KOlGJsKYJ4ZsRmRSD,TWIT,HWASA,"RBW, Inc",2018-06-06,275,60,188,45,2440,10517616
+6cpjHSaH0xK3Lz6FqUniHm,Send It - feat. Rich Homie Quan,"Austin Mahone, Rich Homie Quan",BMG Rights Management (US) LLC,2018-02-01,276,39,94,56,2441,10517616
 24eClW0wZh5fFEFwsUWdSG,Cầu Vĩnh Tuy,"Wren Evans, itsnk",Universal Music Indochina,2023-12-17,152,13,175,121,2442,10436684
 3cqPu20DGTGUoZtbJH2Dmi,What If I Told You That I Love You,Ali Gatie,Warner Records,2017-12-06,235,111,194,31,2443,10434568
 1rfofaqEpACxVEHIZBJe6W,Havana (feat. Young Thug),"Camila Cabello, Young Thug",Syco Music/Epic,2017-12-06,235,5,-1,746,2444,10427445
@@ -2560,8 +2560,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 6fDa6IEt8EAFkHH4hShFK4,Và Ngày Nào Đó,Trung Quân,Yin Yang Media,2022-09-13,262,59,180,221,2559,8360466
 7ESH2ntyD5Bb1XckoJU554,Một Năm Mới Bình An,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2017-04-01,247,8,20,107,2560,8339018
 4EBMxcPgPg4UzWOWPbSHg3,iceman,"Sol7, RPT MCK, DCOD",12 trái lê,2021-03-03,178,105,-1,119,2561,8327697
-4UcFlH0e5B6KwFkFuSYqGo,Một Năm Mới Bình An,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2017-04-01,247,19,172,58,2562,8326220
-4saklk6nie3yiGePpBwUoc,Dynamite,BTS,BIGHIT MUSIC,2013-01-01,249,1,12,468,2563,8326220
+4saklk6nie3yiGePpBwUoc,Dynamite,BTS,BIGHIT MUSIC,2013-01-01,249,1,12,468,2562,8326220
+4UcFlH0e5B6KwFkFuSYqGo,Một Năm Mới Bình An,Sơn Tùng M-TP,Universal Music Indochina Distributed Labels,2017-04-01,247,19,172,58,2563,8326220
 7yfcQynap4xcNqnydaFw83,Ai Mà Biết Được (feat. tlinh),"SOOBIN, tlinh",WDND,2024-06-25,240,8,138,113,2564,8296605
 4WZf4gJ2MvBec6XPdUiqcq,"ANH BIẾT RỒI (feat. Rhyder, Jmi Ko)","ANH TRAI ""SAY HI"", RHYDER, Jmi Ko",Anh Trai Say Hi,2024-08-31,260,11,151,151,2565,8292436
 7baBkATX7B3MCUYDyjlXPs,Lạc Vào Trong Mơ,"SimonC, WUY",AD Ent,2022-04-09,173,39,115,300,2566,8286406
@@ -2792,8 +2792,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 23ep27rDA9gklIzuJ6qzRD,Yêu Em 2 Ngày,Dương Domic,DAO Entertainment,2024-03-08,224,87,150,75,2791,5066475
 1fFvYVg1v3rpUSqKNCUh7b,Người Bình Thường,Vũ Cát Tường,Universal Music Indochina Distributed Labels,2023-12-04,285,126,177,27,2792,5065738
 2naHX4cacns359w3ugyt3P,ĐÂU PHẢI VỢ ANH (feat. Dangrangto),"RAP VIỆT, Dangrangto",DAT VIET VAC,2024-10-14,184,44,185,106,2793,5055525
-48D6GbuJqsGLTkNm6QvYwl,Đại Minh Tinh,"Văn Mai Hương, Hứa Kim Tuyền",Yin Yang Media,2023-10-24,247,33,166,50,2794,5047317
-3g0Dwgd36QRmPecFIoubg4,Đại Minh Tinh,"Văn Mai Hương, Hứa Kim Tuyền",Yin Yang Media,2023-09-26,247,33,39,19,2795,5047317
+3g0Dwgd36QRmPecFIoubg4,Đại Minh Tinh,"Văn Mai Hương, Hứa Kim Tuyền",Yin Yang Media,2023-09-26,247,33,39,19,2794,5047317
+48D6GbuJqsGLTkNm6QvYwl,Đại Minh Tinh,"Văn Mai Hương, Hứa Kim Tuyền",Yin Yang Media,2023-10-24,247,33,166,50,2795,5047317
 1TcmqSx576eBcuTxTtcEAk,NGÂN,"tlinh, Low G",M Music Records,2024-09-18,159,37,162,73,2796,5034929
 5juiUHT5HSYUexbmPIVeOV,"xuân, hạ, thu, đông rồi lại xuân",AMEE,Yin Yang Media,2020-06-29,204,11,-1,50,2797,5024459
 38MI5LpTajiO3A0DQGcCmu,Suit & Tie,"RPT MCK, Hoàng Tôn",N0L4B3L,2023-03-02,238,23,154,45,2798,5010997
@@ -2806,8 +2806,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 3rtOU0GwlsbCNiCqEDLZUN,Tim Anh Ghen,"Wxrdie, Dangrangto, TeuYungBoy, LVK",Universal Music Indochina Distributed Labels,2024-11-12,280,37,72,81,2805,4885323
 1oVbTGLd8EgyeWBoqAYBD0,Vừa Hận Vừa Yêu,Trung Tu,Universal Music Indochina Distributed Labels,2024-06-25,157,17,132,66,2806,4866436
 2plLJpUcYPFrl1sW2pMG63,Lights Up,Harry Styles,Columbia,2019-10-06,274,18,59,36,2807,4864859
-59LeatGytui1mQleoiEnWM,Việt Kiều,"Wren Evans, itsnk",Universal Music Indochina,2023-12-17,171,48,147,62,2808,4811754
-4YJVXeScYoka1p1cAWRqlM,Việt Kiều,"Wren Evans, itsnk",Universal Music Indochina,2023-05-25,170,69,87,6,2809,4811754
+4YJVXeScYoka1p1cAWRqlM,Việt Kiều,"Wren Evans, itsnk",Universal Music Indochina,2023-05-25,170,69,87,6,2808,4811754
+59LeatGytui1mQleoiEnWM,Việt Kiều,"Wren Evans, itsnk",Universal Music Indochina,2023-12-17,171,48,147,62,2809,4811754
 6m6cuH6pqAMAPcEmWwoHHC,Nếu Anh Thấy Lòng Mình Yếu Đuối (feat. CM1X),"Tùa, CM1X",Yin Yang Media,2018-03-01,255,109,124,9,2810,4804933
 29Tj2R8sZZ3fzlXZVe1OyY,Pin Dự Phòng,"Dương Domic, Lou Hoàng",DAO Entertainment,2024-11-22,226,34,89,70,2811,4784538
 21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,Republic Records,2019-09-29,285,6,162,307,2812,4738273
@@ -2820,8 +2820,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 37ull7GiBZRLhWYDBIYZzW,ANH ĐÃ LÀM GÌ ĐÂU (feat. Nhật Hoàng & Thùy Chi),"RAP VIỆT, Nhật Hoàng, Thùy Chi",DAT VIET VAC,2024-12-02,297,10,150,60,2819,4659255
 52cD79EubHFgrw4lW0AnGB,"BAO LỜI CON CHƯA NÓI (feat. Dương Domic, Anh Tú Atus, Song Luân, Quang Trung & Anh Tú)","ANH TRAI ""SAY HI"", Dương Domic, Anh Tú Atus, Song Luân, Quang Trung, Anh Tú",Anh Trai Say Hi,2024-08-26,333,32,182,83,2820,4638716
 08RDjwmSMLc6QPmxrxXDq0,Gặp May,Wren Evans,Universal Music Indochina,2022-01-19,187,29,158,40,2821,4611966
-0wlU1vgrK0jpibrvooCvu0,Độ Tộc 2,"Độ Mixi, Pháo, Phuc Du, Masew",Universal Music Indochina Distributed Labels,2021-08-11,201,10,15,35,2822,4608832
-6B4AdZzwagId7wvWeJEkiq,Độ Tộc 2,"Độ Mixi, Pháo, Phuc Du, Masew",Universal Music Indochina Distributed Labels,2021-09-22,201,10,197,110,2823,4608832
+6B4AdZzwagId7wvWeJEkiq,Độ Tộc 2,"Độ Mixi, Pháo, Phuc Du, Masew",Universal Music Indochina Distributed Labels,2021-09-22,201,10,197,110,2822,4608832
+0wlU1vgrK0jpibrvooCvu0,Độ Tộc 2,"Độ Mixi, Pháo, Phuc Du, Masew",Universal Music Indochina Distributed Labels,2021-08-11,201,10,15,35,2823,4608832
 194xS2oTIYL5u1IK0Q0oj0,Ngỏ Lời,SUNI,Mustation Entertainment,2023-05-28,236,54,175,64,2824,4568028
 54DmTIv86D3sYdiawjULQ0,Dis-ease,BTS,BIGHIT MUSIC,2021-01-23,188,9,158,205,2825,4558576
 4sccoCUvKgarfGmvfAWoVV,No Internet,"7UPPERCUTS, Seachains",Universal Music Indochina Distributed Labels,2018-03-01,232,94,153,10,2826,4557006
@@ -2833,8 +2833,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 067J8jL5iPDzVBH0jClJpI,Chậm Lại,Vũ.,WM Vietnam,2022-08-25,223,12,15,8,2832,4489633
 4fBZ8DOoxcZeEl7GyQdnUF,Chậm Lại,Vũ.,WM Vietnam,2022-09-09,223,7,132,52,2833,4489633
 5NxZpeMGUQ5T5At5xZM5Hf,Anh Tự Do Nhưng Cô Đơn,Trung Quân,Yin Yang Media,2022-11-10,315,26,175,92,2834,4431976
-2iUXsYOEPhVqEBwsqP70rE,Youngblood,5 Seconds of Summer,Capitol,2018-06-01,213,15,162,390,2835,4423977
-1HLg6FbKd24hNyElvEVSbv,Everyday,SPACESPEAKERS,SPACESPEAKERS,2018-05-09,213,24,-1,62,2836,4423977
+1HLg6FbKd24hNyElvEVSbv,Everyday,SPACESPEAKERS,SPACESPEAKERS,2018-05-09,213,24,-1,62,2835,4423977
+2iUXsYOEPhVqEBwsqP70rE,Youngblood,5 Seconds of Summer,Capitol,2018-06-01,213,15,162,390,2836,4423977
 073ILU1C3APNRGF66VhtyA,Liar,Camila Cabello,Syco Music/Epic,2019-09-24,277,13,176,117,2837,4421461
 265hQASPY3HFmUH38zZrSK,MOIEM,"Dangrangto, DONAL",Higher Dimension,2024-11-06,192,45,57,85,2838,4416788
 2DzFmWhrnRHROJuxW5e1t2,"Bao Nhiêu Loài Hoa Remix (feat. tlinh, Machiot)","KayC, tlinh",MaiDao Music,2024-06-25,155,110,-1,52,2839,4412003
@@ -2889,8 +2889,8 @@ id,track_name,artist_names,source,release_date,duration,peak_rank,previous_rank,
 18XlJEroUwFo0tLZxscgXE,Lost,Maroon 5,Interscope Records*,2021-06-01,249,112,113,5,2888,3896387
 1w1zYOYYyX45UMnn0LMHdI,Da Key,GUrbane,All Black Records,2024-05-25,178,193,-1,1,2889,3892375
 5VGOYjxkEaf19LoRPIolD2,Anh Muốn Nhìn Thấy Em,"The Wind, Dangrangto",M Music Records,2023-07-27,212,78,148,50,2890,3884252
-4ez3r3aXZMLzEiwixwqCT3,Anh Không Cố Ý (feat. Limitlxss & Ogenus),"RAP VIỆT, Limitlxss, OgeNus",DAT VIET VAC,2023-07-30,255,8,11,3,2891,3874255
-5RuZw8NsvI4BSlmI2yqgeS,Anh Không Cố Ý (feat. Limitlxss & Ogenus),"RAP VIỆT, Limitlxss, OgeNus",DAT VIET VAC,2023-08-09,255,8,122,48,2892,3874255
+5RuZw8NsvI4BSlmI2yqgeS,Anh Không Cố Ý (feat. Limitlxss & Ogenus),"RAP VIỆT, Limitlxss, OgeNus",DAT VIET VAC,2023-08-09,255,8,122,48,2891,3874255
+4ez3r3aXZMLzEiwixwqCT3,Anh Không Cố Ý (feat. Limitlxss & Ogenus),"RAP VIỆT, Limitlxss, OgeNus",DAT VIET VAC,2023-07-30,255,8,11,3,2892,3874255
 0TngyWNQw9iWZzqdbKHC3N,Hồi Kết,Hà Nhi,Sony Music Entertainment,2022-11-15,274,69,182,105,2893,3869753
 3A0QLMQn0XqmCrJMInLhYg,Phong Long,"Low G, Obito, WOKEUP",Universal Music Indochina Distributed Labels,2024-01-20,281,59,129,26,2894,3853350
 3Ids3RXurYBgySph53qWnB,Từng Ngày Yêu Em,buitruonglinh,LOOPS Music,2024-12-12,226,24,26,27,2895,3852490
